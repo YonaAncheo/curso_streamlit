@@ -1,0 +1,801 @@
+﻿ID_Caso,Fecha_Ingreso,Sucursal_Propietaria,Ejecutivo,Tipificacion,Subtipificacion,Dias_Cartera,Estado,Prioridad,Canal_Ingreso,Monto_Compra,Cumple_SLA_7_dias,M20,Contacto_Cliente,Escalado,Resultado_Gestion
+CASO-100001,2026-08-03,Quilicura,Ejecutivo_05,Servicio adicional,Despacho adicional,17,Pendiente,Media,Call Center,109672,No,No,Sí,No,Derivado
+CASO-100002,2026-07-29,Santiago Centro,Ejecutivo_10,Devolución,En revisión,22,Pendiente,Alta,Tienda,31639,No,Sí,Sí,Sí,En seguimiento
+CASO-100003,2026-07-25,Santiago Centro,Ejecutivo_14,Problema de facturación,Boleta,26,Pendiente,Media,Web,22205,No,Sí,Sí,Sí,Resuelto
+CASO-100004,2026-07-26,Maipú,Ejecutivo_13,Reembolso pendiente,Pendiente banco,25,Pendiente,Baja,Web,61677,No,Sí,Sí,Sí,Pendiente información
+CASO-100005,2026-08-03,Puente Alto,Ejecutivo_11,Servicio adicional,Armado,17,Pendiente,Media,Tienda,37930,No,No,Sí,No,En seguimiento
+CASO-100006,2026-08-07,Providencia,Ejecutivo_04,Consulta transaccional,Abono,13,En gestión,Media,Call Center,78313,No,No,Sí,No,Cliente contactado
+CASO-100007,2026-07-31,La Florida,Ejecutivo_07,Producto defectuoso,Cambio,20,Cerrado,Media,Tienda,229923,No,No,No,No,Resuelto
+CASO-100008,2026-07-26,Quilicura,Ejecutivo_06,Servicio adicional,Instalación,25,Pendiente,Alta,App,118153,No,Sí,Sí,Sí,En seguimiento
+CASO-100009,2026-08-16,Quilicura,Ejecutivo_10,Problema de facturación,Cobro incorrecto,4,Pendiente,Baja,Web,228581,Sí,No,Sí,No,En seguimiento
+CASO-100010,2026-08-10,Quilicura,Ejecutivo_07,Reembolso pendiente,En validación,10,Pendiente,Baja,App,23316,No,No,No,No,Pendiente información
+CASO-100011,2026-08-17,La Florida,Ejecutivo_05,Devolución,Recepcionado,3,Cerrado,Media,Tienda,163376,Sí,No,Sí,No,Resuelto
+CASO-100012,2026-08-02,Puente Alto,Ejecutivo_15,Problema de facturación,Boleta,18,Pendiente,Media,Tienda,237911,No,No,No,No,En seguimiento
+CASO-100013,2026-07-29,Santiago Centro,Ejecutivo_15,Problema de facturación,Cobro incorrecto,22,Pendiente,Baja,Call Center,101058,No,Sí,Sí,Sí,Resuelto
+CASO-100014,2026-07-17,Maipú,Ejecutivo_04,Producto defectuoso,Cambio,34,Pendiente,Media,Call Center,92876,No,Sí,Sí,Sí,En seguimiento
+CASO-100015,2026-08-12,Maipú,Ejecutivo_07,Descuento no aplicado,Convenio,8,En gestión,Baja,Call Center,90366,No,No,Sí,No,Derivado
+CASO-100016,2026-08-01,La Florida,Ejecutivo_07,Reembolso pendiente,En validación,19,Pendiente,Media,App,18403,No,No,No,No,Resuelto
+CASO-100017,2026-08-14,Maipú,Ejecutivo_06,Producto no recibido,Despacho en ruta,6,En gestión,Baja,Call Center,85052,Sí,No,Sí,No,Resuelto
+CASO-100018,2026-07-25,Quilicura,Ejecutivo_08,Problema de facturación,Boleta,26,Pendiente,Media,Tienda,220699,No,Sí,Sí,Sí,En seguimiento
+CASO-100019,2026-07-17,Ñuñoa,Ejecutivo_04,Descuento no aplicado,Convenio,34,Pendiente,Media,Call Center,78495,No,Sí,No,Sí,Pendiente información
+CASO-100020,2026-08-14,Puente Alto,Ejecutivo_10,Producto no recibido,No entregado,6,Cerrado,Baja,Web,168004,Sí,No,Sí,No,Resuelto
+CASO-100021,2026-07-18,Santiago Centro,Ejecutivo_05,Reembolso pendiente,Pendiente banco,33,Pendiente,Media,Call Center,101090,No,Sí,Sí,Sí,Derivado
+CASO-100022,2026-07-29,Ñuñoa,Ejecutivo_04,Retraso en la entrega,Entregado,22,Pendiente,Media,App,41701,No,Sí,Sí,Sí,Pendiente información
+CASO-100023,2026-07-30,Puente Alto,Ejecutivo_12,Consulta transaccional,Pago,21,Escalado,Media,Web,139457,No,Sí,Sí,No,Pendiente información
+CASO-100024,2026-08-14,Las Condes,Ejecutivo_01,Descuento no aplicado,Cupón,6,Cerrado,Media,Web,235298,Sí,No,Sí,No,Resuelto
+CASO-100025,2026-08-14,Providencia,Ejecutivo_12,Anulación de compra,Solicitud cliente,6,Pendiente,Media,Web,62241,Sí,No,Sí,No,Resuelto
+CASO-100026,2026-08-16,La Florida,Ejecutivo_08,Retraso en la entrega,Entregado,4,Pendiente,Media,App,146439,Sí,No,Sí,No,Pendiente información
+CASO-100027,2026-07-21,Quilicura,Ejecutivo_01,Consulta transaccional,Abono,30,Pendiente,Alta,Tienda,70030,No,Sí,Sí,Sí,En seguimiento
+CASO-100028,2026-08-09,Maipú,Ejecutivo_05,Producto defectuoso,Cambio,11,Pendiente,Media,Call Center,182577,No,No,No,No,Pendiente información
+CASO-100029,2026-07-21,Las Condes,Ejecutivo_15,Servicio adicional,Armado,30,Pendiente,Baja,Web,169404,No,Sí,No,Sí,Derivado
+CASO-100030,2026-07-20,Maipú,Ejecutivo_06,Devolución,Retiro pendiente,31,Pendiente,Media,Web,221250,No,Sí,Sí,Sí,Cliente contactado
+CASO-100031,2026-07-27,Ñuñoa,Ejecutivo_06,Anulación de compra,Error compra,24,Escalado,Media,Web,212397,No,Sí,No,No,Derivado
+CASO-100032,2026-08-11,Santiago Centro,Ejecutivo_13,Producto defectuoso,Garantía,9,Pendiente,Media,Tienda,171340,No,No,Sí,No,Resuelto
+CASO-100033,2026-08-17,Santiago Centro,Ejecutivo_05,Reembolso pendiente,Pendiente sistema,3,Cerrado,Alta,Tienda,222558,Sí,No,Sí,Sí,Resuelto
+CASO-100034,2026-07-20,Santiago Centro,Ejecutivo_03,Producto defectuoso,Cambio,31,Pendiente,Media,App,161635,No,Sí,No,No,Pendiente información
+CASO-100035,2026-07-27,Quilicura,Ejecutivo_15,Servicio adicional,Despacho adicional,24,Pendiente,Media,Tienda,110185,No,Sí,Sí,Sí,En seguimiento
+CASO-100036,2026-07-20,Maipú,Ejecutivo_05,Reembolso pendiente,Pendiente banco,31,Pendiente,Media,Call Center,41404,No,Sí,Sí,Sí,Pendiente información
+CASO-100037,2026-08-14,Las Condes,Ejecutivo_12,Anulación de compra,Stock,6,Pendiente,Media,App,60182,Sí,No,No,No,Derivado
+CASO-100038,2026-08-18,Santiago Centro,Ejecutivo_08,Servicio adicional,Despacho adicional,2,Cerrado,Media,App,37991,Sí,No,Sí,No,Resuelto
+CASO-100039,2026-07-31,Las Condes,Ejecutivo_14,Producto no recibido,Despacho en ruta,20,Pendiente,Alta,Call Center,109601,No,No,No,Sí,Cliente contactado
+CASO-100040,2026-07-23,Maipú,Ejecutivo_02,Devolución,Retiro pendiente,28,Pendiente,Media,Call Center,183735,No,Sí,Sí,Sí,Pendiente información
+CASO-100041,2026-08-09,Quilicura,Ejecutivo_06,Anulación de compra,Stock,11,Cerrado,Media,Call Center,70886,No,No,Sí,No,Resuelto
+CASO-100042,2026-08-16,Ñuñoa,Ejecutivo_09,Producto no recibido,No entregado,4,Cerrado,Media,App,127002,Sí,No,Sí,No,Resuelto
+CASO-100043,2026-08-05,Quilicura,Ejecutivo_08,Consulta transaccional,Pago,15,En gestión,Media,App,88848,No,No,Sí,No,Resuelto
+CASO-100044,2026-08-14,Las Condes,Ejecutivo_14,Anulación de compra,Solicitud cliente,6,Cerrado,Baja,App,160199,Sí,No,No,No,Resuelto
+CASO-100045,2026-07-21,Quilicura,Ejecutivo_11,Consulta transaccional,Abono,30,Escalado,Alta,Call Center,62692,No,Sí,Sí,No,Resuelto
+CASO-100046,2026-08-18,Quilicura,Ejecutivo_08,Reembolso pendiente,Pendiente banco,2,En gestión,Media,Call Center,230461,Sí,No,Sí,No,Cliente contactado
+CASO-100047,2026-08-05,Ñuñoa,Ejecutivo_08,Producto no recibido,No entregado,15,En gestión,Alta,Web,42500,No,No,Sí,Sí,Pendiente información
+CASO-100048,2026-08-09,Maipú,Ejecutivo_15,Devolución,Retiro pendiente,11,En gestión,Alta,Tienda,38785,No,No,Sí,Sí,Cliente contactado
+CASO-100049,2026-08-12,Maipú,Ejecutivo_13,Servicio adicional,Armado,8,En gestión,Media,Web,89146,No,No,Sí,No,Derivado
+CASO-100050,2026-07-25,La Florida,Ejecutivo_07,Problema de facturación,Cobro incorrecto,26,Pendiente,Media,Call Center,225198,No,Sí,No,No,Resuelto
+CASO-100051,2026-08-15,Quilicura,Ejecutivo_08,Producto defectuoso,Cambio,5,Pendiente,Baja,App,231051,Sí,No,Sí,No,Cliente contactado
+CASO-100052,2026-08-14,Maipú,Ejecutivo_13,Retraso en la entrega,Nueva fecha disponible,6,Pendiente,Media,Call Center,52997,Sí,No,Sí,No,Cliente contactado
+CASO-100053,2026-07-25,Maipú,Ejecutivo_06,Devolución,En revisión,26,Pendiente,Baja,Tienda,12170,No,Sí,No,Sí,Derivado
+CASO-100054,2026-08-16,Puente Alto,Ejecutivo_02,Producto no recibido,Despacho en ruta,4,Pendiente,Alta,Web,149375,Sí,No,Sí,Sí,Pendiente información
+CASO-100055,2026-08-01,Santiago Centro,Ejecutivo_02,Problema de facturación,Cobro incorrecto,19,Pendiente,Alta,Web,76743,No,No,Sí,No,Cliente contactado
+CASO-100056,2026-07-31,La Florida,Ejecutivo_08,Devolución,Recepcionado,20,Pendiente,Alta,App,213924,No,No,No,Sí,Derivado
+CASO-100057,2026-07-18,Providencia,Ejecutivo_11,Producto no recibido,Despacho en ruta,33,Pendiente,Media,Web,40187,No,Sí,Sí,No,Pendiente información
+CASO-100058,2026-07-31,La Florida,Ejecutivo_01,Descuento no aplicado,Convenio,20,Pendiente,Media,Web,201106,No,No,Sí,No,Pendiente información
+CASO-100059,2026-08-08,La Florida,Ejecutivo_06,Descuento no aplicado,Cupón,12,Cerrado,Media,Call Center,207848,No,No,Sí,No,Resuelto
+CASO-100060,2026-08-19,Providencia,Ejecutivo_13,Consulta transaccional,Pago,1,Pendiente,Alta,Web,137965,Sí,No,No,No,Derivado
+CASO-100061,2026-07-25,Puente Alto,Ejecutivo_06,Devolución,En revisión,26,Escalado,Baja,Web,149825,No,Sí,No,No,Pendiente información
+CASO-100062,2026-08-06,Quilicura,Ejecutivo_11,Descuento no aplicado,Cupón,14,En gestión,Baja,Web,43090,No,No,No,No,Resuelto
+CASO-100063,2026-08-09,Ñuñoa,Ejecutivo_04,Producto no recibido,Listo para retiro,11,En gestión,Media,App,200994,No,No,Sí,No,En seguimiento
+CASO-100064,2026-08-07,Maipú,Ejecutivo_12,Consulta transaccional,Abono,13,Pendiente,Alta,App,212840,No,No,Sí,Sí,Derivado
+CASO-100065,2026-08-17,Santiago Centro,Ejecutivo_11,Producto no recibido,Despacho en ruta,3,Cerrado,Media,Call Center,64412,Sí,No,Sí,No,Resuelto
+CASO-100066,2026-07-18,Las Condes,Ejecutivo_13,Consulta transaccional,Abono,33,Pendiente,Alta,Web,61030,No,Sí,Sí,No,Pendiente información
+CASO-100067,2026-08-14,Quilicura,Ejecutivo_15,Devolución,Recepcionado,6,Pendiente,Alta,App,22509,Sí,No,Sí,Sí,Derivado
+CASO-100068,2026-08-10,Providencia,Ejecutivo_11,Problema de facturación,Boleta,10,Pendiente,Media,App,73653,No,No,No,No,Resuelto
+CASO-100069,2026-08-15,Ñuñoa,Ejecutivo_13,Servicio adicional,Despacho adicional,5,Cerrado,Media,Call Center,173001,Sí,No,No,No,Resuelto
+CASO-100070,2026-07-28,Quilicura,Ejecutivo_10,Anulación de compra,Solicitud cliente,23,Escalado,Media,Tienda,134626,No,Sí,Sí,Sí,Derivado
+CASO-100071,2026-08-10,Providencia,Ejecutivo_03,Problema de facturación,Factura,10,En gestión,Baja,Web,184363,No,No,Sí,No,Derivado
+CASO-100072,2026-08-18,Maipú,Ejecutivo_13,Reembolso pendiente,Pendiente sistema,2,Cerrado,Media,App,9042,Sí,No,Sí,No,Resuelto
+CASO-100073,2026-08-07,Puente Alto,Ejecutivo_11,Producto no recibido,Listo para retiro,13,Pendiente,Baja,Call Center,198646,No,No,Sí,No,Pendiente información
+CASO-100074,2026-08-18,Quilicura,Ejecutivo_03,Reembolso pendiente,Pendiente banco,2,Pendiente,Alta,Call Center,42201,Sí,No,No,Sí,Resuelto
+CASO-100075,2026-07-31,Providencia,Ejecutivo_15,Problema de facturación,Factura,20,Pendiente,Media,Call Center,228354,No,No,No,No,Resuelto
+CASO-100076,2026-08-19,Maipú,Ejecutivo_15,Consulta transaccional,Abono,1,En gestión,Media,App,19016,Sí,No,Sí,No,Pendiente información
+CASO-100077,2026-08-11,Maipú,Ejecutivo_13,Anulación de compra,Stock,9,En gestión,Alta,Web,30022,No,No,Sí,Sí,Pendiente información
+CASO-100078,2026-08-03,Puente Alto,Ejecutivo_13,Anulación de compra,Error compra,17,En gestión,Alta,Tienda,237034,No,No,Sí,Sí,Cliente contactado
+CASO-100079,2026-08-11,La Florida,Ejecutivo_01,Retraso en la entrega,Nueva fecha disponible,9,Pendiente,Media,Web,32938,No,No,Sí,No,En seguimiento
+CASO-100080,2026-08-09,Quilicura,Ejecutivo_03,Anulación de compra,Stock,11,Pendiente,Media,Call Center,179750,No,No,Sí,No,Pendiente información
+CASO-100081,2026-08-05,Quilicura,Ejecutivo_04,Servicio adicional,Instalación,15,En gestión,Media,Call Center,123171,No,No,Sí,No,Pendiente información
+CASO-100082,2026-07-27,La Florida,Ejecutivo_11,Anulación de compra,Solicitud cliente,24,Pendiente,Media,Tienda,237320,No,Sí,Sí,Sí,Cliente contactado
+CASO-100083,2026-07-16,Santiago Centro,Ejecutivo_11,Problema de facturación,Factura,35,Pendiente,Media,Web,66720,No,Sí,No,No,Cliente contactado
+CASO-100084,2026-07-21,Santiago Centro,Ejecutivo_05,Retraso en la entrega,Nueva fecha disponible,30,Escalado,Alta,Call Center,110514,No,Sí,Sí,Sí,Derivado
+CASO-100085,2026-07-20,La Florida,Ejecutivo_03,Problema de facturación,Boleta,31,Escalado,Media,Call Center,192877,No,Sí,Sí,Sí,Resuelto
+CASO-100086,2026-08-15,Ñuñoa,Ejecutivo_06,Problema de facturación,Cobro incorrecto,5,Pendiente,Media,Web,210395,Sí,No,Sí,No,En seguimiento
+CASO-100087,2026-08-06,Las Condes,Ejecutivo_11,Producto defectuoso,Evaluación técnica,14,Cerrado,Alta,Call Center,138058,No,No,Sí,No,Resuelto
+CASO-100088,2026-08-09,Maipú,Ejecutivo_14,Retraso en la entrega,Entregado,11,Pendiente,Baja,Web,81478,No,No,Sí,No,Pendiente información
+CASO-100089,2026-08-11,Las Condes,Ejecutivo_15,Problema de facturación,Cobro incorrecto,9,En gestión,Media,Call Center,219066,No,No,Sí,No,Cliente contactado
+CASO-100090,2026-07-17,Maipú,Ejecutivo_12,Producto defectuoso,Evaluación técnica,34,Pendiente,Media,Web,148233,No,Sí,Sí,No,Resuelto
+CASO-100091,2026-08-08,La Florida,Ejecutivo_05,Producto defectuoso,Evaluación técnica,12,Cerrado,Media,Tienda,156761,No,No,Sí,No,Resuelto
+CASO-100092,2026-07-16,Santiago Centro,Ejecutivo_03,Retraso en la entrega,Entregado,35,Escalado,Media,Call Center,132101,No,Sí,No,Sí,Resuelto
+CASO-100093,2026-07-16,Ñuñoa,Ejecutivo_06,Reembolso pendiente,En validación,35,Pendiente,Media,Tienda,99699,No,Sí,Sí,Sí,Cliente contactado
+CASO-100094,2026-08-19,Santiago Centro,Ejecutivo_06,Consulta transaccional,Pago,1,Pendiente,Alta,Call Center,196996,Sí,No,No,No,Derivado
+CASO-100095,2026-07-29,Las Condes,Ejecutivo_15,Servicio adicional,Despacho adicional,22,Pendiente,Media,Call Center,237383,No,Sí,Sí,No,Derivado
+CASO-100096,2026-07-22,Santiago Centro,Ejecutivo_14,Consulta transaccional,Estado transacción,29,Pendiente,Baja,App,104273,No,Sí,Sí,Sí,Resuelto
+CASO-100097,2026-08-12,La Florida,Ejecutivo_08,Anulación de compra,Error compra,8,Cerrado,Media,Web,210380,No,No,Sí,No,Resuelto
+CASO-100098,2026-08-09,Ñuñoa,Ejecutivo_02,Servicio adicional,Armado,11,Pendiente,Media,Tienda,237200,No,No,Sí,No,Pendiente información
+CASO-100099,2026-08-06,Las Condes,Ejecutivo_01,Anulación de compra,Solicitud cliente,14,En gestión,Media,Tienda,68745,No,No,No,No,Derivado
+CASO-100100,2026-07-21,Ñuñoa,Ejecutivo_04,Problema de facturación,Boleta,30,Escalado,Baja,Tienda,137283,No,Sí,Sí,No,Pendiente información
+CASO-100101,2026-07-16,Quilicura,Ejecutivo_07,Producto no recibido,Despacho en ruta,35,Escalado,Alta,Web,136301,No,Sí,No,Sí,Cliente contactado
+CASO-100102,2026-07-30,Maipú,Ejecutivo_15,Retraso en la entrega,Entregado,21,Pendiente,Media,App,123972,No,Sí,No,Sí,Derivado
+CASO-100103,2026-08-15,Santiago Centro,Ejecutivo_11,Servicio adicional,Despacho adicional,5,Pendiente,Media,Tienda,184614,Sí,No,Sí,No,Derivado
+CASO-100104,2026-08-01,Ñuñoa,Ejecutivo_10,Servicio adicional,Armado,19,En gestión,Baja,Web,150417,No,No,Sí,No,Pendiente información
+CASO-100105,2026-08-06,Puente Alto,Ejecutivo_03,Problema de facturación,Boleta,14,Cerrado,Baja,Call Center,106489,No,No,Sí,No,Resuelto
+CASO-100106,2026-07-25,Quilicura,Ejecutivo_03,Reembolso pendiente,En validación,26,Escalado,Media,Tienda,36819,No,Sí,No,Sí,Pendiente información
+CASO-100107,2026-08-16,Santiago Centro,Ejecutivo_05,Producto defectuoso,Garantía,4,Pendiente,Baja,Tienda,52779,Sí,No,No,No,Pendiente información
+CASO-100108,2026-07-26,Maipú,Ejecutivo_05,Problema de facturación,Factura,25,Pendiente,Baja,App,218493,No,Sí,Sí,Sí,En seguimiento
+CASO-100109,2026-07-26,Ñuñoa,Ejecutivo_13,Descuento no aplicado,Promoción,25,Escalado,Media,Tienda,97244,No,Sí,No,No,Cliente contactado
+CASO-100110,2026-08-02,Las Condes,Ejecutivo_10,Producto defectuoso,Cambio,18,Pendiente,Media,Tienda,70584,No,No,Sí,No,Cliente contactado
+CASO-100111,2026-08-12,Maipú,Ejecutivo_03,Retraso en la entrega,Sin nueva fecha,8,Pendiente,Media,Call Center,156022,No,No,Sí,No,Derivado
+CASO-100112,2026-08-06,Puente Alto,Ejecutivo_09,Producto defectuoso,Evaluación técnica,14,Cerrado,Baja,Web,151245,No,No,Sí,No,Resuelto
+CASO-100113,2026-07-19,Ñuñoa,Ejecutivo_04,Reembolso pendiente,En validación,32,Pendiente,Media,Web,63032,No,Sí,Sí,Sí,Resuelto
+CASO-100114,2026-07-18,Providencia,Ejecutivo_13,Producto defectuoso,Cambio,33,Pendiente,Baja,App,120074,No,Sí,No,Sí,Derivado
+CASO-100115,2026-07-28,Providencia,Ejecutivo_13,Retraso en la entrega,Entregado,23,Pendiente,Media,Call Center,104273,No,Sí,Sí,Sí,Resuelto
+CASO-100116,2026-08-05,La Florida,Ejecutivo_15,Reembolso pendiente,Pendiente sistema,15,Cerrado,Media,Web,33036,No,No,Sí,No,Resuelto
+CASO-100117,2026-07-18,Santiago Centro,Ejecutivo_03,Consulta transaccional,Pago,33,Pendiente,Media,Call Center,248929,No,Sí,Sí,Sí,Pendiente información
+CASO-100118,2026-07-26,Las Condes,Ejecutivo_11,Servicio adicional,Armado,25,Pendiente,Media,Web,76356,No,Sí,Sí,Sí,En seguimiento
+CASO-100119,2026-08-03,La Florida,Ejecutivo_02,Servicio adicional,Instalación,17,En gestión,Baja,Call Center,150364,No,No,Sí,No,En seguimiento
+CASO-100120,2026-07-18,Ñuñoa,Ejecutivo_10,Anulación de compra,Stock,33,Pendiente,Baja,App,8052,No,Sí,Sí,Sí,Derivado
+CASO-100121,2026-08-18,Providencia,Ejecutivo_13,Consulta transaccional,Estado transacción,2,En gestión,Baja,Tienda,49377,Sí,No,Sí,No,Derivado
+CASO-100122,2026-08-06,Providencia,Ejecutivo_11,Consulta transaccional,Estado transacción,14,En gestión,Alta,App,225389,No,No,Sí,Sí,Derivado
+CASO-100123,2026-08-14,Providencia,Ejecutivo_09,Producto defectuoso,Cambio,6,Pendiente,Media,Web,203910,Sí,No,Sí,No,Pendiente información
+CASO-100124,2026-08-14,Ñuñoa,Ejecutivo_04,Servicio adicional,Despacho adicional,6,En gestión,Alta,App,72819,Sí,No,Sí,Sí,Resuelto
+CASO-100125,2026-08-17,Providencia,Ejecutivo_03,Retraso en la entrega,Entregado,3,En gestión,Media,Tienda,118689,Sí,No,Sí,No,Derivado
+CASO-100126,2026-08-13,Maipú,Ejecutivo_07,Devolución,En revisión,7,En gestión,Media,App,244175,Sí,No,Sí,No,Derivado
+CASO-100127,2026-08-12,Quilicura,Ejecutivo_08,Devolución,Retiro pendiente,8,Cerrado,Media,Web,151692,No,No,Sí,No,Resuelto
+CASO-100128,2026-08-05,Ñuñoa,Ejecutivo_11,Reembolso pendiente,En validación,15,Pendiente,Media,Web,35461,No,No,Sí,No,Pendiente información
+CASO-100129,2026-07-22,Las Condes,Ejecutivo_14,Servicio adicional,Instalación,29,Escalado,Baja,App,25750,No,Sí,Sí,Sí,Pendiente información
+CASO-100130,2026-07-18,Quilicura,Ejecutivo_02,Servicio adicional,Armado,33,Pendiente,Alta,Tienda,234498,No,Sí,Sí,No,Resuelto
+CASO-100131,2026-07-21,La Florida,Ejecutivo_07,Devolución,En revisión,30,Pendiente,Media,App,224791,No,Sí,No,No,Derivado
+CASO-100132,2026-07-24,Las Condes,Ejecutivo_12,Servicio adicional,Despacho adicional,27,Escalado,Media,Tienda,14472,No,Sí,No,Sí,Cliente contactado
+CASO-100133,2026-07-22,Quilicura,Ejecutivo_05,Producto defectuoso,Evaluación técnica,29,Escalado,Alta,Call Center,74263,No,Sí,Sí,Sí,Cliente contactado
+CASO-100134,2026-07-18,Puente Alto,Ejecutivo_15,Descuento no aplicado,Promoción,33,Escalado,Media,Tienda,117036,No,Sí,Sí,Sí,Derivado
+CASO-100135,2026-07-24,Providencia,Ejecutivo_11,Producto no recibido,Despacho en ruta,27,Escalado,Baja,Call Center,193674,No,Sí,No,No,Derivado
+CASO-100136,2026-07-18,Puente Alto,Ejecutivo_05,Consulta transaccional,Pago,33,Pendiente,Baja,App,30523,No,Sí,Sí,Sí,Derivado
+CASO-100137,2026-08-16,Santiago Centro,Ejecutivo_03,Anulación de compra,Error compra,4,Pendiente,Baja,Tienda,166838,Sí,No,Sí,No,Derivado
+CASO-100138,2026-07-29,Santiago Centro,Ejecutivo_05,Reembolso pendiente,Pendiente sistema,22,Pendiente,Baja,Call Center,108262,No,Sí,No,No,Resuelto
+CASO-100139,2026-08-18,Quilicura,Ejecutivo_12,Descuento no aplicado,Promoción,2,Pendiente,Media,Call Center,71060,Sí,No,Sí,No,Cliente contactado
+CASO-100140,2026-08-10,Puente Alto,Ejecutivo_02,Devolución,Recepcionado,10,Cerrado,Media,Call Center,14079,No,No,Sí,No,Resuelto
+CASO-100141,2026-08-15,Ñuñoa,Ejecutivo_04,Consulta transaccional,Abono,5,En gestión,Media,Web,144471,Sí,No,Sí,No,Cliente contactado
+CASO-100142,2026-08-10,Las Condes,Ejecutivo_06,Servicio adicional,Armado,10,Cerrado,Media,App,65726,No,No,Sí,No,Resuelto
+CASO-100143,2026-07-18,Puente Alto,Ejecutivo_01,Anulación de compra,Solicitud cliente,33,Pendiente,Media,Call Center,97906,No,Sí,Sí,Sí,Pendiente información
+CASO-100144,2026-08-07,Santiago Centro,Ejecutivo_10,Servicio adicional,Instalación,13,Pendiente,Media,Tienda,21532,No,No,Sí,No,Derivado
+CASO-100145,2026-07-20,Puente Alto,Ejecutivo_04,Retraso en la entrega,Sin nueva fecha,31,Pendiente,Media,Call Center,127689,No,Sí,Sí,No,Derivado
+CASO-100146,2026-07-27,Ñuñoa,Ejecutivo_06,Retraso en la entrega,Entregado,24,Escalado,Media,Web,218429,No,Sí,Sí,Sí,Derivado
+CASO-100147,2026-08-05,Puente Alto,Ejecutivo_09,Anulación de compra,Stock,15,En gestión,Media,App,48162,No,No,Sí,No,Pendiente información
+CASO-100148,2026-07-22,Las Condes,Ejecutivo_14,Anulación de compra,Error compra,29,Escalado,Media,Web,139821,No,Sí,Sí,Sí,Resuelto
+CASO-100149,2026-08-12,La Florida,Ejecutivo_11,Devolución,Recepcionado,8,Pendiente,Media,Web,16353,No,No,Sí,No,Resuelto
+CASO-100150,2026-08-15,Ñuñoa,Ejecutivo_11,Anulación de compra,Solicitud cliente,5,Pendiente,Media,Web,117313,Sí,No,Sí,No,En seguimiento
+CASO-100151,2026-07-22,Santiago Centro,Ejecutivo_13,Producto defectuoso,Evaluación técnica,29,Pendiente,Media,Tienda,33477,No,Sí,Sí,Sí,Resuelto
+CASO-100152,2026-08-16,Las Condes,Ejecutivo_02,Servicio adicional,Instalación,4,Cerrado,Media,App,160642,Sí,No,No,No,Resuelto
+CASO-100153,2026-08-08,Puente Alto,Ejecutivo_11,Descuento no aplicado,Promoción,12,En gestión,Alta,App,91373,No,No,Sí,No,Derivado
+CASO-100154,2026-08-18,Puente Alto,Ejecutivo_07,Problema de facturación,Factura,2,Pendiente,Media,Tienda,147509,Sí,No,Sí,No,Cliente contactado
+CASO-100155,2026-07-24,La Florida,Ejecutivo_06,Anulación de compra,Stock,27,Pendiente,Baja,App,174176,No,Sí,Sí,Sí,Resuelto
+CASO-100156,2026-07-20,Santiago Centro,Ejecutivo_02,Reembolso pendiente,Pendiente banco,31,Pendiente,Media,Web,199442,No,Sí,Sí,Sí,Resuelto
+CASO-100157,2026-07-25,Santiago Centro,Ejecutivo_08,Retraso en la entrega,Nueva fecha disponible,26,Pendiente,Media,App,9551,No,Sí,Sí,No,Pendiente información
+CASO-100158,2026-07-24,Maipú,Ejecutivo_07,Producto defectuoso,Garantía,27,Pendiente,Media,Tienda,73359,No,Sí,Sí,No,En seguimiento
+CASO-100159,2026-08-15,Santiago Centro,Ejecutivo_11,Consulta transaccional,Estado transacción,5,En gestión,Media,Web,190952,Sí,No,Sí,No,Pendiente información
+CASO-100160,2026-07-31,La Florida,Ejecutivo_05,Problema de facturación,Factura,20,Cerrado,Baja,Tienda,148988,No,No,Sí,No,Resuelto
+CASO-100161,2026-08-09,Providencia,Ejecutivo_12,Descuento no aplicado,Promoción,11,Pendiente,Media,Call Center,131150,No,No,No,No,Cliente contactado
+CASO-100162,2026-08-10,Maipú,Ejecutivo_05,Problema de facturación,Factura,10,En gestión,Media,Web,216775,No,No,No,No,En seguimiento
+CASO-100163,2026-08-14,Maipú,Ejecutivo_07,Anulación de compra,Error compra,6,Cerrado,Media,Web,177517,Sí,No,Sí,No,Resuelto
+CASO-100164,2026-08-12,Puente Alto,Ejecutivo_09,Devolución,Recepcionado,8,Pendiente,Alta,App,52636,No,No,Sí,Sí,Resuelto
+CASO-100165,2026-07-28,Puente Alto,Ejecutivo_11,Retraso en la entrega,Sin nueva fecha,23,Pendiente,Media,Web,209999,No,Sí,Sí,Sí,Resuelto
+CASO-100166,2026-07-25,Santiago Centro,Ejecutivo_15,Retraso en la entrega,Sin nueva fecha,26,Escalado,Media,Tienda,214266,No,Sí,Sí,No,En seguimiento
+CASO-100167,2026-08-08,Maipú,Ejecutivo_09,Consulta transaccional,Abono,12,En gestión,Media,App,34685,No,No,Sí,No,Resuelto
+CASO-100168,2026-07-25,Quilicura,Ejecutivo_09,Devolución,Recepcionado,26,Pendiente,Media,Call Center,56134,No,Sí,Sí,No,Pendiente información
+CASO-100169,2026-08-07,Puente Alto,Ejecutivo_06,Servicio adicional,Despacho adicional,13,En gestión,Media,Tienda,93916,No,No,No,No,Pendiente información
+CASO-100170,2026-08-02,La Florida,Ejecutivo_10,Producto no recibido,Listo para retiro,18,Pendiente,Alta,Call Center,112967,No,No,Sí,Sí,Resuelto
+CASO-100171,2026-07-26,Quilicura,Ejecutivo_06,Producto defectuoso,Evaluación técnica,25,Escalado,Media,Call Center,99455,No,Sí,Sí,Sí,Resuelto
+CASO-100172,2026-07-18,Puente Alto,Ejecutivo_03,Retraso en la entrega,Nueva fecha disponible,33,Pendiente,Media,Call Center,203919,No,Sí,Sí,Sí,Derivado
+CASO-100173,2026-08-08,Ñuñoa,Ejecutivo_01,Reembolso pendiente,En validación,12,Cerrado,Media,Web,176065,No,No,Sí,No,Resuelto
+CASO-100174,2026-08-16,Ñuñoa,Ejecutivo_07,Retraso en la entrega,Entregado,4,Pendiente,Alta,Tienda,180405,Sí,No,Sí,Sí,En seguimiento
+CASO-100175,2026-08-15,Puente Alto,Ejecutivo_04,Problema de facturación,Boleta,5,Pendiente,Media,Tienda,244646,Sí,No,Sí,No,Pendiente información
+CASO-100176,2026-08-12,Maipú,Ejecutivo_01,Retraso en la entrega,Entregado,8,En gestión,Baja,Web,194937,No,No,No,No,En seguimiento
+CASO-100177,2026-07-23,Providencia,Ejecutivo_15,Retraso en la entrega,Sin nueva fecha,28,Pendiente,Media,App,215168,No,Sí,Sí,Sí,Derivado
+CASO-100178,2026-07-20,Providencia,Ejecutivo_08,Producto no recibido,Despacho en ruta,31,Pendiente,Media,Call Center,54756,No,Sí,Sí,Sí,Pendiente información
+CASO-100179,2026-08-11,Maipú,Ejecutivo_12,Producto no recibido,Listo para retiro,9,En gestión,Alta,Tienda,127863,No,No,No,Sí,Derivado
+CASO-100180,2026-07-22,Las Condes,Ejecutivo_06,Descuento no aplicado,Cupón,29,Pendiente,Media,Web,66192,No,Sí,Sí,Sí,Derivado
+CASO-100181,2026-08-06,Providencia,Ejecutivo_06,Servicio adicional,Armado,14,En gestión,Media,Call Center,196758,No,No,Sí,No,Resuelto
+CASO-100182,2026-07-29,Ñuñoa,Ejecutivo_02,Reembolso pendiente,Pendiente sistema,22,Pendiente,Media,App,53733,No,Sí,No,Sí,En seguimiento
+CASO-100183,2026-08-09,La Florida,Ejecutivo_15,Retraso en la entrega,Entregado,11,Pendiente,Media,App,240161,No,No,Sí,No,En seguimiento
+CASO-100184,2026-07-28,Maipú,Ejecutivo_01,Retraso en la entrega,Nueva fecha disponible,23,Pendiente,Baja,Call Center,30993,No,Sí,Sí,Sí,Resuelto
+CASO-100185,2026-08-19,Santiago Centro,Ejecutivo_13,Producto defectuoso,Garantía,1,Pendiente,Media,App,166564,Sí,No,Sí,No,En seguimiento
+CASO-100186,2026-07-30,Ñuñoa,Ejecutivo_14,Producto no recibido,No entregado,21,Pendiente,Alta,Tienda,157053,No,Sí,No,No,Resuelto
+CASO-100187,2026-07-25,La Florida,Ejecutivo_14,Reembolso pendiente,En validación,26,Escalado,Baja,Tienda,29143,No,Sí,Sí,No,Pendiente información
+CASO-100188,2026-07-28,La Florida,Ejecutivo_02,Consulta transaccional,Estado transacción,23,Pendiente,Media,Tienda,213675,No,Sí,Sí,Sí,Derivado
+CASO-100189,2026-08-19,Maipú,Ejecutivo_04,Descuento no aplicado,Cupón,1,En gestión,Baja,App,225524,Sí,No,Sí,No,Derivado
+CASO-100190,2026-08-05,La Florida,Ejecutivo_02,Servicio adicional,Despacho adicional,15,Cerrado,Media,Tienda,196349,No,No,Sí,No,Resuelto
+CASO-100191,2026-07-30,Maipú,Ejecutivo_01,Devolución,Recepcionado,21,Escalado,Baja,Web,112044,No,Sí,Sí,Sí,Cliente contactado
+CASO-100192,2026-08-11,Providencia,Ejecutivo_07,Servicio adicional,Despacho adicional,9,Cerrado,Media,Tienda,248029,No,No,Sí,No,Resuelto
+CASO-100193,2026-08-11,Puente Alto,Ejecutivo_11,Problema de facturación,Boleta,9,En gestión,Media,Tienda,186062,No,No,Sí,No,Resuelto
+CASO-100194,2026-08-10,Ñuñoa,Ejecutivo_11,Retraso en la entrega,Entregado,10,En gestión,Baja,App,133406,No,No,Sí,No,Cliente contactado
+CASO-100195,2026-07-25,Las Condes,Ejecutivo_15,Descuento no aplicado,Promoción,26,Pendiente,Media,Tienda,198960,No,Sí,No,Sí,Cliente contactado
+CASO-100196,2026-07-16,Puente Alto,Ejecutivo_12,Problema de facturación,Boleta,35,Pendiente,Media,Call Center,74351,No,Sí,Sí,Sí,Derivado
+CASO-100197,2026-07-26,Ñuñoa,Ejecutivo_08,Reembolso pendiente,Pendiente sistema,25,Escalado,Media,Web,233444,No,Sí,Sí,Sí,Derivado
+CASO-100198,2026-07-25,Maipú,Ejecutivo_06,Devolución,Retiro pendiente,26,Pendiente,Media,App,186071,No,Sí,No,Sí,Derivado
+CASO-100199,2026-08-09,Ñuñoa,Ejecutivo_04,Producto no recibido,Listo para retiro,11,Cerrado,Media,Web,239085,No,No,Sí,No,Resuelto
+CASO-100200,2026-08-18,Providencia,Ejecutivo_14,Descuento no aplicado,Cupón,2,Pendiente,Media,Call Center,238883,Sí,No,Sí,No,Cliente contactado
+CASO-100201,2026-08-13,Maipú,Ejecutivo_06,Descuento no aplicado,Cupón,7,En gestión,Media,App,240951,Sí,No,No,No,En seguimiento
+CASO-100202,2026-08-02,Puente Alto,Ejecutivo_03,Retraso en la entrega,Entregado,18,Cerrado,Media,App,75309,No,No,Sí,No,Resuelto
+CASO-100203,2026-07-24,Santiago Centro,Ejecutivo_12,Anulación de compra,Stock,27,Pendiente,Media,Tienda,148518,No,Sí,Sí,No,Pendiente información
+CASO-100204,2026-07-17,Santiago Centro,Ejecutivo_08,Descuento no aplicado,Convenio,34,Pendiente,Media,Web,166805,No,Sí,Sí,No,Derivado
+CASO-100205,2026-07-24,Quilicura,Ejecutivo_10,Producto defectuoso,Garantía,27,Escalado,Alta,Call Center,124156,No,Sí,Sí,No,Cliente contactado
+CASO-100206,2026-08-03,Quilicura,Ejecutivo_14,Devolución,En revisión,17,Pendiente,Alta,Call Center,81000,No,No,Sí,Sí,Resuelto
+CASO-100207,2026-07-27,Ñuñoa,Ejecutivo_13,Devolución,Retiro pendiente,24,Pendiente,Media,App,184704,No,Sí,Sí,Sí,Pendiente información
+CASO-100208,2026-07-26,Santiago Centro,Ejecutivo_13,Producto defectuoso,Evaluación técnica,25,Pendiente,Media,Tienda,26576,No,Sí,Sí,Sí,Resuelto
+CASO-100209,2026-08-13,Maipú,Ejecutivo_02,Consulta transaccional,Estado transacción,7,Cerrado,Media,App,8320,Sí,No,Sí,No,Resuelto
+CASO-100210,2026-08-14,La Florida,Ejecutivo_05,Producto defectuoso,Cambio,6,En gestión,Media,App,146822,Sí,No,Sí,No,En seguimiento
+CASO-100211,2026-07-27,Maipú,Ejecutivo_01,Producto defectuoso,Garantía,24,Pendiente,Media,App,108002,No,Sí,Sí,No,En seguimiento
+CASO-100212,2026-07-18,La Florida,Ejecutivo_06,Devolución,Recepcionado,33,Pendiente,Baja,App,189535,No,Sí,No,Sí,Resuelto
+CASO-100213,2026-07-22,Puente Alto,Ejecutivo_02,Servicio adicional,Instalación,29,Pendiente,Alta,Call Center,31572,No,Sí,Sí,Sí,Pendiente información
+CASO-100214,2026-07-29,Las Condes,Ejecutivo_04,Devolución,En revisión,22,Pendiente,Media,Call Center,22948,No,Sí,No,Sí,Cliente contactado
+CASO-100215,2026-07-25,La Florida,Ejecutivo_06,Anulación de compra,Solicitud cliente,26,Pendiente,Media,App,121528,No,Sí,Sí,Sí,Cliente contactado
+CASO-100216,2026-07-23,Santiago Centro,Ejecutivo_10,Retraso en la entrega,Nueva fecha disponible,28,Pendiente,Baja,App,174898,No,Sí,Sí,Sí,Derivado
+CASO-100217,2026-07-30,Maipú,Ejecutivo_11,Problema de facturación,Factura,21,Pendiente,Baja,Tienda,94051,No,Sí,Sí,No,Derivado
+CASO-100218,2026-08-13,Puente Alto,Ejecutivo_08,Servicio adicional,Armado,7,Pendiente,Alta,App,32867,Sí,No,Sí,Sí,Cliente contactado
+CASO-100219,2026-08-03,Santiago Centro,Ejecutivo_12,Producto no recibido,Despacho en ruta,17,Pendiente,Media,Call Center,196303,No,No,Sí,No,Resuelto
+CASO-100220,2026-07-31,Puente Alto,Ejecutivo_08,Problema de facturación,Factura,20,Pendiente,Baja,Web,202334,No,No,Sí,No,Resuelto
+CASO-100221,2026-07-31,Las Condes,Ejecutivo_11,Retraso en la entrega,Nueva fecha disponible,20,Pendiente,Media,Call Center,227428,No,No,Sí,No,En seguimiento
+CASO-100222,2026-07-29,Providencia,Ejecutivo_06,Anulación de compra,Stock,22,Pendiente,Media,Tienda,208305,No,Sí,Sí,Sí,En seguimiento
+CASO-100223,2026-07-23,Maipú,Ejecutivo_04,Anulación de compra,Error compra,28,Pendiente,Media,Call Center,49678,No,Sí,Sí,No,Derivado
+CASO-100224,2026-08-13,Ñuñoa,Ejecutivo_08,Producto no recibido,Listo para retiro,7,Pendiente,Media,Web,112561,Sí,No,Sí,No,Cliente contactado
+CASO-100225,2026-08-19,Maipú,Ejecutivo_13,Servicio adicional,Instalación,1,En gestión,Baja,App,17963,Sí,No,Sí,No,Resuelto
+CASO-100226,2026-07-19,Quilicura,Ejecutivo_08,Consulta transaccional,Pago,32,Pendiente,Baja,Web,200432,No,Sí,Sí,Sí,Cliente contactado
+CASO-100227,2026-08-07,Las Condes,Ejecutivo_10,Producto defectuoso,Cambio,13,En gestión,Media,App,54434,No,No,Sí,No,Pendiente información
+CASO-100228,2026-07-21,Maipú,Ejecutivo_14,Servicio adicional,Despacho adicional,30,Escalado,Media,App,71617,No,Sí,Sí,No,Cliente contactado
+CASO-100229,2026-07-28,Quilicura,Ejecutivo_01,Consulta transaccional,Abono,23,Escalado,Baja,Call Center,156341,No,Sí,Sí,Sí,Pendiente información
+CASO-100230,2026-08-01,Ñuñoa,Ejecutivo_04,Anulación de compra,Stock,19,En gestión,Alta,Call Center,122569,No,No,No,No,En seguimiento
+CASO-100231,2026-07-19,La Florida,Ejecutivo_04,Devolución,En revisión,32,Pendiente,Media,Call Center,212384,No,Sí,Sí,Sí,En seguimiento
+CASO-100232,2026-07-21,Puente Alto,Ejecutivo_07,Retraso en la entrega,Entregado,30,Pendiente,Baja,Tienda,102352,No,Sí,Sí,No,Derivado
+CASO-100233,2026-07-22,Ñuñoa,Ejecutivo_14,Producto no recibido,Listo para retiro,29,Pendiente,Media,Call Center,84732,No,Sí,Sí,Sí,Cliente contactado
+CASO-100234,2026-07-22,Santiago Centro,Ejecutivo_14,Retraso en la entrega,Sin nueva fecha,29,Pendiente,Media,Tienda,112648,No,Sí,No,Sí,Cliente contactado
+CASO-100235,2026-07-21,Las Condes,Ejecutivo_11,Reembolso pendiente,Pendiente banco,30,Pendiente,Alta,Call Center,86494,No,Sí,Sí,No,Pendiente información
+CASO-100236,2026-08-04,La Florida,Ejecutivo_07,Reembolso pendiente,Pendiente sistema,16,Pendiente,Baja,App,224977,No,No,No,No,En seguimiento
+CASO-100237,2026-08-01,Santiago Centro,Ejecutivo_13,Servicio adicional,Instalación,19,Cerrado,Media,Tienda,82225,No,No,Sí,No,Resuelto
+CASO-100238,2026-08-02,Santiago Centro,Ejecutivo_11,Anulación de compra,Error compra,18,En gestión,Media,Web,87867,No,No,Sí,No,En seguimiento
+CASO-100239,2026-08-19,Las Condes,Ejecutivo_15,Anulación de compra,Error compra,1,Cerrado,Media,Tienda,173600,Sí,No,No,No,Resuelto
+CASO-100240,2026-08-06,La Florida,Ejecutivo_08,Producto defectuoso,Garantía,14,En gestión,Baja,Tienda,83972,No,No,Sí,No,En seguimiento
+CASO-100241,2026-08-18,Providencia,Ejecutivo_11,Producto defectuoso,Cambio,2,En gestión,Baja,Web,201674,Sí,No,Sí,No,Pendiente información
+CASO-100242,2026-07-23,Santiago Centro,Ejecutivo_05,Producto defectuoso,Cambio,28,Pendiente,Media,Tienda,101261,No,Sí,No,Sí,En seguimiento
+CASO-100243,2026-07-21,Santiago Centro,Ejecutivo_07,Devolución,Retiro pendiente,30,Pendiente,Media,App,95748,No,Sí,No,Sí,Pendiente información
+CASO-100244,2026-08-16,La Florida,Ejecutivo_08,Problema de facturación,Factura,4,Cerrado,Media,Call Center,169404,Sí,No,Sí,No,Resuelto
+CASO-100245,2026-08-19,Maipú,Ejecutivo_15,Descuento no aplicado,Promoción,1,Pendiente,Baja,Web,129481,Sí,No,Sí,No,Derivado
+CASO-100246,2026-08-12,Santiago Centro,Ejecutivo_09,Problema de facturación,Factura,8,Cerrado,Media,Call Center,227009,No,No,No,No,Resuelto
+CASO-100247,2026-07-22,Puente Alto,Ejecutivo_03,Retraso en la entrega,Entregado,29,Pendiente,Baja,App,134529,No,Sí,Sí,Sí,Derivado
+CASO-100248,2026-08-17,La Florida,Ejecutivo_03,Problema de facturación,Cobro incorrecto,3,Pendiente,Media,Web,215001,Sí,No,No,No,Cliente contactado
+CASO-100249,2026-07-19,Santiago Centro,Ejecutivo_04,Devolución,Retiro pendiente,32,Pendiente,Baja,Call Center,205278,No,Sí,Sí,Sí,Cliente contactado
+CASO-100250,2026-08-10,Las Condes,Ejecutivo_05,Retraso en la entrega,Entregado,10,Pendiente,Baja,Call Center,227209,No,No,Sí,No,En seguimiento
+CASO-100251,2026-08-10,Ñuñoa,Ejecutivo_10,Problema de facturación,Factura,10,Cerrado,Media,App,7251,No,No,No,No,Resuelto
+CASO-100252,2026-08-01,Puente Alto,Ejecutivo_01,Devolución,En revisión,19,Pendiente,Baja,Call Center,181789,No,No,Sí,No,Resuelto
+CASO-100253,2026-07-17,Quilicura,Ejecutivo_15,Descuento no aplicado,Cupón,34,Pendiente,Media,App,104108,No,Sí,Sí,Sí,En seguimiento
+CASO-100254,2026-07-18,Quilicura,Ejecutivo_15,Problema de facturación,Cobro incorrecto,33,Pendiente,Alta,Tienda,163099,No,Sí,Sí,No,Derivado
+CASO-100255,2026-07-28,Ñuñoa,Ejecutivo_07,Devolución,Recepcionado,23,Pendiente,Media,App,102382,No,Sí,Sí,Sí,Pendiente información
+CASO-100256,2026-07-23,Quilicura,Ejecutivo_09,Producto defectuoso,Cambio,28,Escalado,Media,Tienda,222623,No,Sí,Sí,No,Pendiente información
+CASO-100257,2026-07-19,Ñuñoa,Ejecutivo_08,Anulación de compra,Solicitud cliente,32,Pendiente,Media,Web,14583,No,Sí,No,Sí,Cliente contactado
+CASO-100258,2026-08-13,Santiago Centro,Ejecutivo_15,Producto defectuoso,Evaluación técnica,7,Cerrado,Media,Call Center,55387,Sí,No,Sí,No,Resuelto
+CASO-100259,2026-07-22,Puente Alto,Ejecutivo_15,Anulación de compra,Error compra,29,Pendiente,Media,App,28104,No,Sí,Sí,Sí,Pendiente información
+CASO-100260,2026-08-12,Puente Alto,Ejecutivo_05,Producto no recibido,Listo para retiro,8,Pendiente,Media,App,17224,No,No,No,No,Derivado
+CASO-100261,2026-08-19,Maipú,Ejecutivo_14,Producto no recibido,No entregado,1,En gestión,Media,Call Center,65624,Sí,No,Sí,No,Derivado
+CASO-100262,2026-08-17,Ñuñoa,Ejecutivo_14,Producto no recibido,Despacho en ruta,3,Pendiente,Media,Call Center,192130,Sí,No,Sí,No,Pendiente información
+CASO-100263,2026-07-27,Puente Alto,Ejecutivo_04,Descuento no aplicado,Convenio,24,Pendiente,Media,Web,109320,No,Sí,Sí,Sí,Derivado
+CASO-100264,2026-07-28,Maipú,Ejecutivo_12,Producto defectuoso,Cambio,23,Pendiente,Media,Web,232444,No,Sí,No,No,Derivado
+CASO-100265,2026-08-12,La Florida,Ejecutivo_07,Anulación de compra,Stock,8,Pendiente,Media,App,165371,No,No,Sí,No,Cliente contactado
+CASO-100266,2026-08-17,Maipú,Ejecutivo_05,Devolución,Recepcionado,3,En gestión,Media,Web,83572,Sí,No,Sí,No,Resuelto
+CASO-100267,2026-07-18,Las Condes,Ejecutivo_07,Retraso en la entrega,Entregado,33,Pendiente,Media,Tienda,90469,No,Sí,Sí,Sí,Cliente contactado
+CASO-100268,2026-07-23,Providencia,Ejecutivo_12,Devolución,En revisión,28,Pendiente,Baja,Web,82928,No,Sí,Sí,No,Resuelto
+CASO-100269,2026-08-12,Santiago Centro,Ejecutivo_01,Retraso en la entrega,Entregado,8,Cerrado,Baja,Web,209546,No,No,Sí,No,Resuelto
+CASO-100270,2026-07-17,La Florida,Ejecutivo_01,Reembolso pendiente,En validación,34,Pendiente,Media,App,9141,No,Sí,Sí,Sí,Resuelto
+CASO-100271,2026-07-16,Providencia,Ejecutivo_10,Devolución,En revisión,35,Pendiente,Baja,Tienda,159422,No,Sí,Sí,Sí,Derivado
+CASO-100272,2026-07-19,Providencia,Ejecutivo_14,Problema de facturación,Cobro incorrecto,32,Escalado,Baja,Web,211154,No,Sí,No,No,Derivado
+CASO-100273,2026-07-27,La Florida,Ejecutivo_13,Problema de facturación,Cobro incorrecto,24,Pendiente,Baja,Tienda,75871,No,Sí,Sí,No,Cliente contactado
+CASO-100274,2026-08-06,Las Condes,Ejecutivo_03,Servicio adicional,Despacho adicional,14,Pendiente,Media,Tienda,141149,No,No,Sí,No,Cliente contactado
+CASO-100275,2026-07-19,Maipú,Ejecutivo_14,Producto defectuoso,Evaluación técnica,32,Pendiente,Baja,Tienda,51015,No,Sí,Sí,Sí,En seguimiento
+CASO-100276,2026-08-04,Santiago Centro,Ejecutivo_11,Retraso en la entrega,Nueva fecha disponible,16,Cerrado,Media,Call Center,207219,No,No,Sí,No,Resuelto
+CASO-100277,2026-08-16,Maipú,Ejecutivo_02,Retraso en la entrega,Entregado,4,Pendiente,Media,Call Center,195252,Sí,No,Sí,No,En seguimiento
+CASO-100278,2026-07-30,Puente Alto,Ejecutivo_02,Producto defectuoso,Garantía,21,Escalado,Alta,Call Center,176929,No,Sí,Sí,Sí,En seguimiento
+CASO-100279,2026-08-06,Maipú,Ejecutivo_07,Descuento no aplicado,Promoción,14,En gestión,Media,Call Center,237268,No,No,Sí,No,Resuelto
+CASO-100280,2026-07-20,Quilicura,Ejecutivo_12,Servicio adicional,Despacho adicional,31,Pendiente,Alta,App,195912,No,Sí,Sí,Sí,Derivado
+CASO-100281,2026-08-02,La Florida,Ejecutivo_10,Descuento no aplicado,Cupón,18,En gestión,Media,Web,64902,No,No,Sí,No,Derivado
+CASO-100282,2026-08-13,Santiago Centro,Ejecutivo_02,Descuento no aplicado,Convenio,7,En gestión,Media,Call Center,10577,Sí,No,Sí,No,Derivado
+CASO-100283,2026-08-10,Maipú,Ejecutivo_11,Descuento no aplicado,Cupón,10,Pendiente,Baja,App,25002,No,No,Sí,No,Pendiente información
+CASO-100284,2026-08-13,Santiago Centro,Ejecutivo_04,Producto defectuoso,Garantía,7,Cerrado,Baja,Web,55711,Sí,No,Sí,No,Resuelto
+CASO-100285,2026-07-18,Santiago Centro,Ejecutivo_02,Descuento no aplicado,Cupón,33,Pendiente,Media,Call Center,44451,No,Sí,Sí,No,Resuelto
+CASO-100286,2026-07-28,Puente Alto,Ejecutivo_06,Problema de facturación,Boleta,23,Pendiente,Baja,Web,235883,No,Sí,Sí,Sí,Derivado
+CASO-100287,2026-07-30,Puente Alto,Ejecutivo_08,Producto no recibido,No entregado,21,Pendiente,Baja,Call Center,185175,No,Sí,Sí,Sí,En seguimiento
+CASO-100288,2026-08-01,La Florida,Ejecutivo_10,Reembolso pendiente,Pendiente sistema,19,Cerrado,Baja,App,164719,No,No,No,No,Resuelto
+CASO-100289,2026-08-01,Las Condes,Ejecutivo_04,Retraso en la entrega,Sin nueva fecha,19,Pendiente,Alta,Tienda,39831,No,No,Sí,Sí,En seguimiento
+CASO-100290,2026-07-22,Quilicura,Ejecutivo_15,Retraso en la entrega,Entregado,29,Escalado,Media,Tienda,236376,No,Sí,Sí,Sí,Cliente contactado
+CASO-100291,2026-08-02,Providencia,Ejecutivo_05,Reembolso pendiente,Pendiente banco,18,Pendiente,Baja,Web,101498,No,No,Sí,No,Resuelto
+CASO-100292,2026-08-18,Santiago Centro,Ejecutivo_04,Producto defectuoso,Cambio,2,En gestión,Media,App,133949,Sí,No,Sí,No,Resuelto
+CASO-100293,2026-08-19,Las Condes,Ejecutivo_03,Devolución,En revisión,1,En gestión,Media,Tienda,249942,Sí,No,Sí,No,En seguimiento
+CASO-100294,2026-08-15,Providencia,Ejecutivo_05,Producto defectuoso,Cambio,5,Pendiente,Media,Call Center,100119,Sí,No,No,No,Pendiente información
+CASO-100295,2026-07-31,Providencia,Ejecutivo_14,Retraso en la entrega,Nueva fecha disponible,20,Pendiente,Media,Tienda,71830,No,No,Sí,No,Resuelto
+CASO-100296,2026-08-09,Quilicura,Ejecutivo_09,Retraso en la entrega,Entregado,11,En gestión,Media,Web,85632,No,No,No,No,En seguimiento
+CASO-100297,2026-08-18,La Florida,Ejecutivo_08,Reembolso pendiente,Pendiente banco,2,En gestión,Alta,Web,41833,Sí,No,No,Sí,Pendiente información
+CASO-100298,2026-08-17,Providencia,Ejecutivo_08,Descuento no aplicado,Cupón,3,En gestión,Media,App,248466,Sí,No,Sí,No,En seguimiento
+CASO-100299,2026-07-28,Quilicura,Ejecutivo_08,Producto defectuoso,Garantía,23,Pendiente,Baja,Web,228936,No,Sí,Sí,Sí,Pendiente información
+CASO-100300,2026-08-08,Providencia,Ejecutivo_12,Anulación de compra,Solicitud cliente,12,Cerrado,Baja,Tienda,29398,No,No,Sí,No,Resuelto
+CASO-100301,2026-07-31,Santiago Centro,Ejecutivo_08,Reembolso pendiente,En validación,20,En gestión,Alta,Tienda,66554,No,No,Sí,Sí,Pendiente información
+CASO-100302,2026-08-15,Santiago Centro,Ejecutivo_07,Problema de facturación,Cobro incorrecto,5,Cerrado,Baja,Tienda,55755,Sí,No,No,No,Resuelto
+CASO-100303,2026-07-21,Ñuñoa,Ejecutivo_08,Retraso en la entrega,Entregado,30,Pendiente,Media,Tienda,153778,No,Sí,Sí,Sí,Derivado
+CASO-100304,2026-08-11,Las Condes,Ejecutivo_11,Reembolso pendiente,Pendiente sistema,9,En gestión,Media,App,158412,No,No,No,No,En seguimiento
+CASO-100305,2026-07-17,Maipú,Ejecutivo_14,Producto defectuoso,Evaluación técnica,34,Pendiente,Baja,Call Center,69994,No,Sí,Sí,Sí,Derivado
+CASO-100306,2026-07-16,Quilicura,Ejecutivo_08,Retraso en la entrega,Sin nueva fecha,35,Pendiente,Baja,Call Center,68884,No,Sí,No,No,Derivado
+CASO-100307,2026-07-29,Puente Alto,Ejecutivo_13,Devolución,Recepcionado,22,Pendiente,Baja,App,89361,No,Sí,No,Sí,En seguimiento
+CASO-100308,2026-07-27,Quilicura,Ejecutivo_14,Reembolso pendiente,Pendiente banco,24,Escalado,Media,Web,22482,No,Sí,Sí,Sí,En seguimiento
+CASO-100309,2026-08-03,Maipú,Ejecutivo_08,Servicio adicional,Instalación,17,En gestión,Baja,Call Center,59225,No,No,Sí,No,Cliente contactado
+CASO-100310,2026-08-10,Las Condes,Ejecutivo_12,Retraso en la entrega,Entregado,10,En gestión,Alta,Web,194921,No,No,Sí,No,En seguimiento
+CASO-100311,2026-07-21,Puente Alto,Ejecutivo_10,Producto defectuoso,Evaluación técnica,30,Pendiente,Media,Call Center,79854,No,Sí,No,Sí,Resuelto
+CASO-100312,2026-07-28,Maipú,Ejecutivo_07,Producto no recibido,Despacho en ruta,23,Pendiente,Media,Web,46256,No,Sí,No,No,Resuelto
+CASO-100313,2026-07-19,Ñuñoa,Ejecutivo_12,Anulación de compra,Solicitud cliente,32,Escalado,Media,App,245617,No,Sí,No,Sí,Cliente contactado
+CASO-100314,2026-08-03,Puente Alto,Ejecutivo_01,Consulta transaccional,Abono,17,Pendiente,Media,Tienda,113721,No,No,Sí,No,Pendiente información
+CASO-100315,2026-08-03,Santiago Centro,Ejecutivo_04,Descuento no aplicado,Convenio,17,Cerrado,Baja,Web,86110,No,No,Sí,No,Resuelto
+CASO-100316,2026-08-06,Maipú,Ejecutivo_13,Consulta transaccional,Abono,14,Cerrado,Media,Tienda,118606,No,No,No,No,Resuelto
+CASO-100317,2026-08-11,Quilicura,Ejecutivo_13,Producto defectuoso,Cambio,9,En gestión,Alta,Web,19650,No,No,Sí,Sí,En seguimiento
+CASO-100318,2026-08-18,Puente Alto,Ejecutivo_04,Problema de facturación,Factura,2,Pendiente,Media,Web,182190,Sí,No,No,No,Cliente contactado
+CASO-100319,2026-07-26,Ñuñoa,Ejecutivo_05,Problema de facturación,Boleta,25,Pendiente,Media,Web,33930,No,Sí,Sí,Sí,Pendiente información
+CASO-100320,2026-08-11,Quilicura,Ejecutivo_10,Producto no recibido,No entregado,9,En gestión,Baja,Web,221779,No,No,Sí,No,Pendiente información
+CASO-100321,2026-07-29,Providencia,Ejecutivo_06,Descuento no aplicado,Promoción,22,Escalado,Media,Web,105400,No,Sí,Sí,Sí,Derivado
+CASO-100322,2026-08-16,Puente Alto,Ejecutivo_04,Servicio adicional,Instalación,4,En gestión,Media,Tienda,16801,Sí,No,Sí,No,Resuelto
+CASO-100323,2026-07-25,Puente Alto,Ejecutivo_15,Producto no recibido,Listo para retiro,26,Pendiente,Baja,Web,56360,No,Sí,Sí,Sí,En seguimiento
+CASO-100324,2026-07-22,Ñuñoa,Ejecutivo_02,Consulta transaccional,Estado transacción,29,Escalado,Media,Tienda,92908,No,Sí,Sí,Sí,Cliente contactado
+CASO-100325,2026-07-17,Providencia,Ejecutivo_06,Producto no recibido,No entregado,34,Escalado,Media,App,152631,No,Sí,Sí,Sí,Pendiente información
+CASO-100326,2026-07-28,Maipú,Ejecutivo_15,Consulta transaccional,Pago,23,Pendiente,Media,Call Center,37334,No,Sí,Sí,Sí,Derivado
+CASO-100327,2026-08-09,La Florida,Ejecutivo_08,Retraso en la entrega,Entregado,11,Cerrado,Media,Web,241545,No,No,Sí,No,Resuelto
+CASO-100328,2026-08-14,Maipú,Ejecutivo_15,Problema de facturación,Factura,6,Pendiente,Media,Call Center,18288,Sí,No,Sí,No,Resuelto
+CASO-100329,2026-08-02,Providencia,Ejecutivo_08,Retraso en la entrega,Nueva fecha disponible,18,En gestión,Media,Tienda,158470,No,No,No,No,Cliente contactado
+CASO-100330,2026-07-30,Las Condes,Ejecutivo_07,Anulación de compra,Solicitud cliente,21,Pendiente,Baja,App,212302,No,Sí,Sí,Sí,Pendiente información
+CASO-100331,2026-07-17,Quilicura,Ejecutivo_06,Descuento no aplicado,Promoción,34,Pendiente,Baja,App,17191,No,Sí,No,Sí,Cliente contactado
+CASO-100332,2026-08-03,Ñuñoa,Ejecutivo_02,Servicio adicional,Despacho adicional,17,Pendiente,Media,App,23051,No,No,Sí,No,Cliente contactado
+CASO-100333,2026-07-26,Maipú,Ejecutivo_15,Consulta transaccional,Pago,25,Pendiente,Alta,Call Center,66715,No,Sí,Sí,Sí,Derivado
+CASO-100334,2026-08-08,Puente Alto,Ejecutivo_07,Servicio adicional,Despacho adicional,12,En gestión,Baja,Tienda,15737,No,No,Sí,No,Resuelto
+CASO-100335,2026-07-28,Ñuñoa,Ejecutivo_11,Consulta transaccional,Estado transacción,23,Escalado,Media,Web,70140,No,Sí,Sí,No,En seguimiento
+CASO-100336,2026-07-29,Santiago Centro,Ejecutivo_12,Producto defectuoso,Evaluación técnica,22,Escalado,Media,Web,161323,No,Sí,Sí,Sí,Resuelto
+CASO-100337,2026-07-30,Providencia,Ejecutivo_14,Producto no recibido,No entregado,21,Pendiente,Media,Tienda,187047,No,Sí,Sí,No,Resuelto
+CASO-100338,2026-07-24,Quilicura,Ejecutivo_14,Anulación de compra,Stock,27,Escalado,Baja,Call Center,10147,No,Sí,Sí,Sí,Derivado
+CASO-100339,2026-07-20,Maipú,Ejecutivo_05,Problema de facturación,Cobro incorrecto,31,Pendiente,Media,Web,55508,No,Sí,Sí,No,En seguimiento
+CASO-100340,2026-08-14,Ñuñoa,Ejecutivo_06,Consulta transaccional,Estado transacción,6,En gestión,Alta,Tienda,57224,Sí,No,Sí,No,Pendiente información
+CASO-100341,2026-07-24,Quilicura,Ejecutivo_10,Servicio adicional,Instalación,27,Pendiente,Media,Web,24643,No,Sí,Sí,Sí,En seguimiento
+CASO-100342,2026-07-17,Maipú,Ejecutivo_08,Anulación de compra,Solicitud cliente,34,Pendiente,Baja,App,43967,No,Sí,Sí,Sí,Pendiente información
+CASO-100343,2026-08-08,Ñuñoa,Ejecutivo_14,Devolución,Recepcionado,12,Pendiente,Alta,Web,234922,No,No,Sí,Sí,En seguimiento
+CASO-100344,2026-08-13,Puente Alto,Ejecutivo_08,Devolución,Recepcionado,7,Pendiente,Baja,Call Center,108535,Sí,No,Sí,No,Cliente contactado
+CASO-100345,2026-08-10,Santiago Centro,Ejecutivo_03,Retraso en la entrega,Sin nueva fecha,10,Pendiente,Media,Tienda,45733,No,No,Sí,No,En seguimiento
+CASO-100346,2026-08-03,Santiago Centro,Ejecutivo_12,Problema de facturación,Cobro incorrecto,17,Cerrado,Media,Call Center,220075,No,No,Sí,No,Resuelto
+CASO-100347,2026-07-25,Las Condes,Ejecutivo_12,Producto defectuoso,Cambio,26,Pendiente,Media,Tienda,39808,No,Sí,No,No,Pendiente información
+CASO-100348,2026-07-30,Ñuñoa,Ejecutivo_14,Servicio adicional,Despacho adicional,21,Escalado,Media,App,203360,No,Sí,No,Sí,Resuelto
+CASO-100349,2026-07-23,Maipú,Ejecutivo_07,Producto no recibido,Despacho en ruta,28,Pendiente,Baja,Tienda,63959,No,Sí,Sí,Sí,Derivado
+CASO-100350,2026-08-18,Santiago Centro,Ejecutivo_01,Producto no recibido,No entregado,2,Cerrado,Media,Web,137921,Sí,No,Sí,No,Resuelto
+CASO-100351,2026-08-19,Providencia,Ejecutivo_01,Servicio adicional,Armado,1,Pendiente,Baja,Web,73178,Sí,No,Sí,No,Pendiente información
+CASO-100352,2026-07-25,Santiago Centro,Ejecutivo_07,Descuento no aplicado,Cupón,26,Pendiente,Media,App,203208,No,Sí,Sí,No,Resuelto
+CASO-100353,2026-07-22,La Florida,Ejecutivo_15,Producto defectuoso,Cambio,29,Pendiente,Alta,Tienda,196812,No,Sí,Sí,Sí,Cliente contactado
+CASO-100354,2026-07-30,La Florida,Ejecutivo_15,Anulación de compra,Solicitud cliente,21,Escalado,Alta,App,117255,No,Sí,Sí,Sí,Derivado
+CASO-100355,2026-08-09,Santiago Centro,Ejecutivo_10,Consulta transaccional,Abono,11,En gestión,Media,Web,91322,No,No,Sí,No,Resuelto
+CASO-100356,2026-08-09,Ñuñoa,Ejecutivo_09,Descuento no aplicado,Cupón,11,Cerrado,Baja,Call Center,49565,No,No,Sí,No,Resuelto
+CASO-100357,2026-07-16,Las Condes,Ejecutivo_07,Consulta transaccional,Abono,35,Pendiente,Media,App,156255,No,Sí,Sí,Sí,Cliente contactado
+CASO-100358,2026-07-17,Santiago Centro,Ejecutivo_10,Consulta transaccional,Estado transacción,34,Pendiente,Media,Call Center,6132,No,Sí,Sí,No,Derivado
+CASO-100359,2026-07-27,Puente Alto,Ejecutivo_05,Descuento no aplicado,Convenio,24,Pendiente,Media,Call Center,174331,No,Sí,Sí,Sí,Resuelto
+CASO-100360,2026-07-29,Quilicura,Ejecutivo_08,Retraso en la entrega,Entregado,22,Pendiente,Media,Tienda,232684,No,Sí,Sí,No,Cliente contactado
+CASO-100361,2026-08-15,Maipú,Ejecutivo_02,Devolución,Recepcionado,5,Cerrado,Media,App,68668,Sí,No,Sí,No,Resuelto
+CASO-100362,2026-07-18,Las Condes,Ejecutivo_09,Consulta transaccional,Abono,33,Pendiente,Baja,Call Center,174635,No,Sí,Sí,Sí,En seguimiento
+CASO-100363,2026-07-31,Puente Alto,Ejecutivo_06,Descuento no aplicado,Convenio,20,Cerrado,Media,Call Center,228299,No,No,Sí,No,Resuelto
+CASO-100364,2026-08-01,Las Condes,Ejecutivo_13,Descuento no aplicado,Convenio,19,Pendiente,Media,Tienda,113835,No,No,Sí,No,Cliente contactado
+CASO-100365,2026-07-16,Puente Alto,Ejecutivo_09,Reembolso pendiente,Pendiente banco,35,Escalado,Alta,Tienda,147003,No,Sí,Sí,Sí,Pendiente información
+CASO-100366,2026-08-03,Maipú,Ejecutivo_02,Retraso en la entrega,Sin nueva fecha,17,Pendiente,Baja,Web,78169,No,No,No,No,En seguimiento
+CASO-100367,2026-07-17,Maipú,Ejecutivo_03,Problema de facturación,Boleta,34,Escalado,Media,Call Center,186711,No,Sí,Sí,No,Resuelto
+CASO-100368,2026-08-11,La Florida,Ejecutivo_12,Reembolso pendiente,En validación,9,En gestión,Alta,Web,239385,No,No,No,No,Resuelto
+CASO-100369,2026-07-25,Ñuñoa,Ejecutivo_08,Reembolso pendiente,En validación,26,Pendiente,Media,Call Center,194973,No,Sí,Sí,Sí,Derivado
+CASO-100370,2026-08-18,Puente Alto,Ejecutivo_01,Servicio adicional,Despacho adicional,2,Pendiente,Media,Web,105417,Sí,No,Sí,No,Cliente contactado
+CASO-100371,2026-08-11,Quilicura,Ejecutivo_15,Devolución,Retiro pendiente,9,Cerrado,Media,Tienda,6044,No,No,Sí,No,Resuelto
+CASO-100372,2026-08-11,La Florida,Ejecutivo_10,Descuento no aplicado,Promoción,9,Cerrado,Media,App,182763,No,No,Sí,No,Resuelto
+CASO-100373,2026-08-03,Puente Alto,Ejecutivo_15,Devolución,En revisión,17,Cerrado,Baja,Tienda,236807,No,No,Sí,No,Resuelto
+CASO-100374,2026-08-19,La Florida,Ejecutivo_15,Producto defectuoso,Cambio,1,Cerrado,Media,Web,29363,Sí,No,Sí,No,Resuelto
+CASO-100375,2026-07-26,Maipú,Ejecutivo_15,Servicio adicional,Armado,25,Escalado,Baja,Web,51694,No,Sí,No,No,Resuelto
+CASO-100376,2026-07-26,Las Condes,Ejecutivo_07,Problema de facturación,Factura,25,Pendiente,Media,App,137654,No,Sí,No,No,Cliente contactado
+CASO-100377,2026-07-16,Providencia,Ejecutivo_07,Devolución,Retiro pendiente,35,Pendiente,Media,Call Center,215982,No,Sí,Sí,No,Cliente contactado
+CASO-100378,2026-08-17,La Florida,Ejecutivo_13,Producto no recibido,No entregado,3,En gestión,Media,Web,202916,Sí,No,Sí,No,Derivado
+CASO-100379,2026-07-21,Puente Alto,Ejecutivo_01,Consulta transaccional,Estado transacción,30,Escalado,Media,Web,26301,No,Sí,Sí,Sí,En seguimiento
+CASO-100380,2026-07-17,Puente Alto,Ejecutivo_09,Producto defectuoso,Garantía,34,Pendiente,Baja,Web,79329,No,Sí,Sí,Sí,Pendiente información
+CASO-100381,2026-08-08,Providencia,Ejecutivo_08,Retraso en la entrega,Entregado,12,Pendiente,Media,App,6620,No,No,No,No,En seguimiento
+CASO-100382,2026-08-01,Ñuñoa,Ejecutivo_04,Problema de facturación,Cobro incorrecto,19,Pendiente,Media,Tienda,67224,No,No,No,No,En seguimiento
+CASO-100383,2026-08-03,Quilicura,Ejecutivo_10,Producto defectuoso,Garantía,17,En gestión,Media,Web,192727,No,No,No,No,Cliente contactado
+CASO-100384,2026-08-10,Maipú,Ejecutivo_11,Consulta transaccional,Estado transacción,10,En gestión,Baja,App,100419,No,No,Sí,No,Cliente contactado
+CASO-100385,2026-08-08,Puente Alto,Ejecutivo_05,Servicio adicional,Despacho adicional,12,En gestión,Media,Web,173606,No,No,Sí,No,Cliente contactado
+CASO-100386,2026-08-04,Santiago Centro,Ejecutivo_02,Consulta transaccional,Pago,16,En gestión,Baja,Call Center,125050,No,No,Sí,No,En seguimiento
+CASO-100387,2026-07-27,Las Condes,Ejecutivo_13,Reembolso pendiente,En validación,24,Pendiente,Media,App,239568,No,Sí,No,Sí,Pendiente información
+CASO-100388,2026-08-01,La Florida,Ejecutivo_09,Consulta transaccional,Abono,19,Pendiente,Alta,Web,175462,No,No,Sí,No,Cliente contactado
+CASO-100389,2026-08-12,Ñuñoa,Ejecutivo_15,Reembolso pendiente,En validación,8,Cerrado,Media,App,207701,No,No,Sí,No,Resuelto
+CASO-100390,2026-07-20,Quilicura,Ejecutivo_12,Servicio adicional,Armado,31,Pendiente,Media,Web,60856,No,Sí,Sí,Sí,Pendiente información
+CASO-100391,2026-07-30,Providencia,Ejecutivo_12,Anulación de compra,Error compra,21,Pendiente,Media,Tienda,185324,No,Sí,No,No,Resuelto
+CASO-100392,2026-08-03,Las Condes,Ejecutivo_06,Reembolso pendiente,Pendiente banco,17,Cerrado,Alta,Web,60809,No,No,Sí,Sí,Resuelto
+CASO-100393,2026-07-28,Maipú,Ejecutivo_03,Retraso en la entrega,Sin nueva fecha,23,Pendiente,Baja,App,27259,No,Sí,Sí,Sí,Cliente contactado
+CASO-100394,2026-08-04,Ñuñoa,Ejecutivo_12,Consulta transaccional,Estado transacción,16,En gestión,Baja,Call Center,25655,No,No,No,No,Derivado
+CASO-100395,2026-08-14,Quilicura,Ejecutivo_07,Consulta transaccional,Pago,6,Pendiente,Media,Call Center,169077,Sí,No,No,No,Cliente contactado
+CASO-100396,2026-08-12,La Florida,Ejecutivo_09,Retraso en la entrega,Entregado,8,En gestión,Media,Call Center,167701,No,No,Sí,No,En seguimiento
+CASO-100397,2026-07-26,La Florida,Ejecutivo_03,Producto no recibido,Despacho en ruta,25,Escalado,Alta,Web,159682,No,Sí,Sí,No,En seguimiento
+CASO-100398,2026-08-02,Providencia,Ejecutivo_02,Descuento no aplicado,Promoción,18,Pendiente,Alta,Tienda,193256,No,No,No,Sí,Pendiente información
+CASO-100399,2026-07-26,Santiago Centro,Ejecutivo_07,Anulación de compra,Error compra,25,Pendiente,Media,Web,26602,No,Sí,No,No,En seguimiento
+CASO-100400,2026-08-08,Providencia,Ejecutivo_07,Problema de facturación,Factura,12,Pendiente,Baja,Call Center,90945,No,No,Sí,No,Cliente contactado
+CASO-100401,2026-08-05,Maipú,Ejecutivo_04,Reembolso pendiente,Pendiente sistema,15,Pendiente,Media,App,147182,No,No,Sí,No,Resuelto
+CASO-100402,2026-07-25,Ñuñoa,Ejecutivo_11,Retraso en la entrega,Entregado,26,Escalado,Alta,Call Center,142145,No,Sí,Sí,Sí,Cliente contactado
+CASO-100403,2026-07-25,Ñuñoa,Ejecutivo_09,Servicio adicional,Armado,26,Pendiente,Media,App,105846,No,Sí,No,Sí,Pendiente información
+CASO-100404,2026-07-19,Puente Alto,Ejecutivo_14,Reembolso pendiente,En validación,32,Escalado,Media,Tienda,85818,No,Sí,Sí,Sí,En seguimiento
+CASO-100405,2026-08-10,Santiago Centro,Ejecutivo_08,Descuento no aplicado,Promoción,10,En gestión,Media,App,146267,No,No,Sí,No,Resuelto
+CASO-100406,2026-08-04,Santiago Centro,Ejecutivo_13,Servicio adicional,Despacho adicional,16,Cerrado,Media,Web,6537,No,No,Sí,No,Resuelto
+CASO-100407,2026-08-13,Ñuñoa,Ejecutivo_13,Producto defectuoso,Evaluación técnica,7,En gestión,Media,Web,153210,Sí,No,No,No,Resuelto
+CASO-100408,2026-08-03,Ñuñoa,Ejecutivo_01,Consulta transaccional,Pago,17,Pendiente,Alta,Web,180400,No,No,Sí,No,Resuelto
+CASO-100409,2026-07-28,Las Condes,Ejecutivo_01,Producto defectuoso,Evaluación técnica,23,Escalado,Alta,App,182274,No,Sí,Sí,Sí,Cliente contactado
+CASO-100410,2026-07-25,Quilicura,Ejecutivo_05,Reembolso pendiente,En validación,26,Pendiente,Baja,Web,176236,No,Sí,Sí,No,Derivado
+CASO-100411,2026-07-30,Las Condes,Ejecutivo_06,Descuento no aplicado,Promoción,21,Pendiente,Media,Web,131545,No,Sí,Sí,Sí,Pendiente información
+CASO-100412,2026-07-29,Las Condes,Ejecutivo_03,Anulación de compra,Error compra,22,Escalado,Alta,Web,94743,No,Sí,Sí,Sí,Pendiente información
+CASO-100413,2026-08-13,Santiago Centro,Ejecutivo_13,Reembolso pendiente,Pendiente banco,7,Pendiente,Media,Tienda,190731,Sí,No,Sí,No,Resuelto
+CASO-100414,2026-08-06,Puente Alto,Ejecutivo_09,Retraso en la entrega,Nueva fecha disponible,14,En gestión,Alta,App,91155,No,No,Sí,No,Resuelto
+CASO-100415,2026-08-05,La Florida,Ejecutivo_12,Devolución,Recepcionado,15,Cerrado,Media,App,185764,No,No,No,No,Resuelto
+CASO-100416,2026-08-13,Las Condes,Ejecutivo_10,Reembolso pendiente,Pendiente banco,7,En gestión,Baja,Call Center,125198,Sí,No,Sí,No,Derivado
+CASO-100417,2026-08-11,Puente Alto,Ejecutivo_14,Consulta transaccional,Abono,9,Cerrado,Media,App,160917,No,No,Sí,No,Resuelto
+CASO-100418,2026-08-12,Providencia,Ejecutivo_15,Consulta transaccional,Abono,8,En gestión,Media,Tienda,94846,No,No,Sí,No,En seguimiento
+CASO-100419,2026-07-28,Maipú,Ejecutivo_06,Reembolso pendiente,Pendiente sistema,23,Pendiente,Media,App,239507,No,Sí,Sí,Sí,Derivado
+CASO-100420,2026-07-22,Las Condes,Ejecutivo_04,Servicio adicional,Armado,29,Escalado,Media,Tienda,35562,No,Sí,Sí,Sí,Pendiente información
+CASO-100421,2026-08-02,Providencia,Ejecutivo_12,Devolución,Retiro pendiente,18,En gestión,Baja,Tienda,33036,No,No,No,No,En seguimiento
+CASO-100422,2026-07-20,La Florida,Ejecutivo_07,Retraso en la entrega,Sin nueva fecha,31,Escalado,Baja,App,196824,No,Sí,Sí,Sí,Derivado
+CASO-100423,2026-07-21,Maipú,Ejecutivo_08,Reembolso pendiente,Pendiente sistema,30,Pendiente,Alta,Call Center,79233,No,Sí,Sí,Sí,En seguimiento
+CASO-100424,2026-07-16,Maipú,Ejecutivo_09,Servicio adicional,Armado,35,Escalado,Baja,Web,88049,No,Sí,No,Sí,Resuelto
+CASO-100425,2026-08-02,La Florida,Ejecutivo_13,Consulta transaccional,Pago,18,En gestión,Media,Web,244647,No,No,Sí,No,Cliente contactado
+CASO-100426,2026-08-03,Las Condes,Ejecutivo_11,Consulta transaccional,Pago,17,Pendiente,Baja,App,73681,No,No,No,No,Pendiente información
+CASO-100427,2026-08-06,Santiago Centro,Ejecutivo_06,Descuento no aplicado,Cupón,14,Cerrado,Media,App,32818,No,No,Sí,No,Resuelto
+CASO-100428,2026-07-20,La Florida,Ejecutivo_15,Reembolso pendiente,Pendiente sistema,31,Pendiente,Baja,Tienda,166616,No,Sí,Sí,Sí,Resuelto
+CASO-100429,2026-07-27,La Florida,Ejecutivo_06,Devolución,Recepcionado,24,Pendiente,Baja,App,67532,No,Sí,Sí,No,Derivado
+CASO-100430,2026-07-16,La Florida,Ejecutivo_08,Producto no recibido,Listo para retiro,35,Escalado,Media,Tienda,214708,No,Sí,Sí,No,En seguimiento
+CASO-100431,2026-07-17,Maipú,Ejecutivo_12,Devolución,Retiro pendiente,34,Pendiente,Media,Call Center,62705,No,Sí,Sí,No,Pendiente información
+CASO-100432,2026-08-17,Quilicura,Ejecutivo_05,Consulta transaccional,Abono,3,Cerrado,Baja,App,25104,Sí,No,Sí,No,Resuelto
+CASO-100433,2026-07-25,Puente Alto,Ejecutivo_14,Consulta transaccional,Pago,26,Pendiente,Baja,Web,129336,No,Sí,Sí,Sí,Derivado
+CASO-100434,2026-07-28,Providencia,Ejecutivo_03,Producto defectuoso,Cambio,23,Pendiente,Alta,Web,132904,No,Sí,No,Sí,Pendiente información
+CASO-100435,2026-08-05,Santiago Centro,Ejecutivo_12,Consulta transaccional,Pago,15,Pendiente,Media,App,74603,No,No,Sí,No,En seguimiento
+CASO-100436,2026-08-16,Las Condes,Ejecutivo_03,Retraso en la entrega,Nueva fecha disponible,4,Pendiente,Media,Tienda,107499,Sí,No,No,No,Resuelto
+CASO-100437,2026-07-22,Las Condes,Ejecutivo_13,Problema de facturación,Cobro incorrecto,29,Escalado,Alta,Web,64025,No,Sí,Sí,No,Resuelto
+CASO-100438,2026-07-29,Providencia,Ejecutivo_06,Reembolso pendiente,En validación,22,Escalado,Media,Tienda,232336,No,Sí,Sí,Sí,Resuelto
+CASO-100439,2026-07-26,Puente Alto,Ejecutivo_02,Devolución,Retiro pendiente,25,Escalado,Media,App,37317,No,Sí,No,No,Pendiente información
+CASO-100440,2026-08-07,La Florida,Ejecutivo_06,Problema de facturación,Factura,13,En gestión,Baja,App,167488,No,No,Sí,No,Pendiente información
+CASO-100441,2026-08-02,Quilicura,Ejecutivo_13,Servicio adicional,Armado,18,Cerrado,Media,Web,178084,No,No,No,No,Resuelto
+CASO-100442,2026-07-18,Santiago Centro,Ejecutivo_06,Producto no recibido,Despacho en ruta,33,Pendiente,Baja,App,110585,No,Sí,Sí,Sí,Pendiente información
+CASO-100443,2026-08-04,Las Condes,Ejecutivo_08,Retraso en la entrega,Nueva fecha disponible,16,En gestión,Alta,Call Center,204117,No,No,Sí,Sí,Derivado
+CASO-100444,2026-08-18,Providencia,Ejecutivo_07,Devolución,Retiro pendiente,2,Pendiente,Media,Call Center,157472,Sí,No,Sí,No,Cliente contactado
+CASO-100445,2026-07-16,Ñuñoa,Ejecutivo_08,Problema de facturación,Factura,35,Pendiente,Media,Web,53270,No,Sí,Sí,No,Derivado
+CASO-100446,2026-07-17,Quilicura,Ejecutivo_14,Producto no recibido,Despacho en ruta,34,Pendiente,Media,Call Center,208141,No,Sí,Sí,Sí,Resuelto
+CASO-100447,2026-07-21,Providencia,Ejecutivo_09,Producto defectuoso,Cambio,30,Pendiente,Alta,Tienda,124415,No,Sí,Sí,No,Derivado
+CASO-100448,2026-08-07,Quilicura,Ejecutivo_06,Retraso en la entrega,Sin nueva fecha,13,Cerrado,Media,Web,185905,No,No,Sí,No,Resuelto
+CASO-100449,2026-08-07,Las Condes,Ejecutivo_14,Retraso en la entrega,Nueva fecha disponible,13,Pendiente,Media,Web,199716,No,No,Sí,No,Pendiente información
+CASO-100450,2026-08-02,La Florida,Ejecutivo_03,Producto defectuoso,Evaluación técnica,18,En gestión,Media,Tienda,85206,No,No,Sí,No,En seguimiento
+CASO-100451,2026-07-19,Ñuñoa,Ejecutivo_10,Reembolso pendiente,Pendiente sistema,32,Escalado,Media,Call Center,74468,No,Sí,Sí,No,En seguimiento
+CASO-100452,2026-07-19,Puente Alto,Ejecutivo_03,Producto defectuoso,Garantía,32,Pendiente,Media,Call Center,248971,No,Sí,Sí,No,Resuelto
+CASO-100453,2026-07-16,Santiago Centro,Ejecutivo_11,Retraso en la entrega,Entregado,35,Pendiente,Baja,Call Center,195545,No,Sí,No,Sí,Pendiente información
+CASO-100454,2026-07-22,Puente Alto,Ejecutivo_12,Retraso en la entrega,Nueva fecha disponible,29,Pendiente,Baja,Web,181881,No,Sí,No,Sí,En seguimiento
+CASO-100455,2026-07-22,Puente Alto,Ejecutivo_01,Problema de facturación,Cobro incorrecto,29,Pendiente,Media,Web,174400,No,Sí,Sí,Sí,Resuelto
+CASO-100456,2026-08-04,Providencia,Ejecutivo_11,Consulta transaccional,Abono,16,Pendiente,Media,Call Center,172856,No,No,No,No,Pendiente información
+CASO-100457,2026-08-10,Quilicura,Ejecutivo_15,Producto no recibido,Listo para retiro,10,Cerrado,Alta,App,28723,No,No,Sí,Sí,Resuelto
+CASO-100458,2026-07-21,Santiago Centro,Ejecutivo_13,Producto defectuoso,Garantía,30,Pendiente,Baja,Call Center,65646,No,Sí,No,No,Resuelto
+CASO-100459,2026-07-26,Santiago Centro,Ejecutivo_15,Producto no recibido,No entregado,25,Escalado,Alta,Tienda,202327,No,Sí,Sí,Sí,Derivado
+CASO-100460,2026-07-31,Las Condes,Ejecutivo_05,Producto defectuoso,Cambio,20,Pendiente,Media,Web,5074,No,No,Sí,No,Pendiente información
+CASO-100461,2026-08-15,Las Condes,Ejecutivo_14,Servicio adicional,Instalación,5,En gestión,Media,Tienda,31498,Sí,No,Sí,No,En seguimiento
+CASO-100462,2026-08-19,Santiago Centro,Ejecutivo_04,Retraso en la entrega,Entregado,1,Cerrado,Media,Tienda,201594,Sí,No,Sí,No,Resuelto
+CASO-100463,2026-07-21,Ñuñoa,Ejecutivo_09,Consulta transaccional,Pago,30,Pendiente,Media,Web,101881,No,Sí,Sí,No,Derivado
+CASO-100464,2026-08-17,Maipú,Ejecutivo_15,Problema de facturación,Boleta,3,En gestión,Baja,App,156613,Sí,No,Sí,No,Derivado
+CASO-100465,2026-08-06,Las Condes,Ejecutivo_09,Consulta transaccional,Estado transacción,14,Pendiente,Alta,Call Center,50929,No,No,No,Sí,En seguimiento
+CASO-100466,2026-07-21,Maipú,Ejecutivo_15,Consulta transaccional,Pago,30,Pendiente,Media,Tienda,128199,No,Sí,Sí,Sí,Pendiente información
+CASO-100467,2026-08-16,Providencia,Ejecutivo_14,Consulta transaccional,Abono,4,Cerrado,Alta,Web,236525,Sí,No,Sí,Sí,Resuelto
+CASO-100468,2026-08-02,Ñuñoa,Ejecutivo_05,Producto no recibido,No entregado,18,Pendiente,Alta,Tienda,31028,No,No,Sí,Sí,Derivado
+CASO-100469,2026-07-26,Santiago Centro,Ejecutivo_10,Producto defectuoso,Cambio,25,Pendiente,Baja,Call Center,34545,No,Sí,Sí,No,Derivado
+CASO-100470,2026-08-19,Ñuñoa,Ejecutivo_04,Anulación de compra,Solicitud cliente,1,Pendiente,Media,App,84569,Sí,No,Sí,No,Derivado
+CASO-100471,2026-08-05,Las Condes,Ejecutivo_07,Servicio adicional,Armado,15,En gestión,Baja,App,36673,No,No,Sí,No,Cliente contactado
+CASO-100472,2026-08-11,Puente Alto,Ejecutivo_15,Devolución,Recepcionado,9,Cerrado,Media,App,167046,No,No,Sí,No,Resuelto
+CASO-100473,2026-08-05,Providencia,Ejecutivo_06,Consulta transaccional,Abono,15,Pendiente,Alta,Web,194971,No,No,Sí,Sí,Pendiente información
+CASO-100474,2026-07-27,Santiago Centro,Ejecutivo_04,Reembolso pendiente,Pendiente sistema,24,Pendiente,Baja,Web,159169,No,Sí,Sí,No,Pendiente información
+CASO-100475,2026-08-16,La Florida,Ejecutivo_13,Producto no recibido,No entregado,4,En gestión,Media,App,107511,Sí,No,No,No,Pendiente información
+CASO-100476,2026-08-08,Providencia,Ejecutivo_13,Problema de facturación,Factura,12,Cerrado,Baja,Call Center,98144,No,No,No,No,Resuelto
+CASO-100477,2026-08-14,Quilicura,Ejecutivo_15,Devolución,Retiro pendiente,6,Pendiente,Media,Call Center,69824,Sí,No,Sí,No,En seguimiento
+CASO-100478,2026-07-27,Maipú,Ejecutivo_10,Anulación de compra,Stock,24,Escalado,Baja,Web,28525,No,Sí,Sí,No,Derivado
+CASO-100479,2026-08-09,Ñuñoa,Ejecutivo_02,Reembolso pendiente,Pendiente sistema,11,Pendiente,Alta,App,62804,No,No,Sí,Sí,En seguimiento
+CASO-100480,2026-08-07,Santiago Centro,Ejecutivo_01,Anulación de compra,Error compra,13,Cerrado,Media,Call Center,151115,No,No,Sí,No,Resuelto
+CASO-100481,2026-07-17,Providencia,Ejecutivo_04,Devolución,Retiro pendiente,34,Pendiente,Baja,Call Center,46846,No,Sí,Sí,No,Resuelto
+CASO-100482,2026-07-26,Ñuñoa,Ejecutivo_04,Consulta transaccional,Pago,25,Escalado,Baja,Call Center,82261,No,Sí,Sí,No,Derivado
+CASO-100483,2026-08-13,Santiago Centro,Ejecutivo_13,Reembolso pendiente,Pendiente banco,7,En gestión,Baja,Web,238312,Sí,No,No,No,Cliente contactado
+CASO-100484,2026-08-16,Las Condes,Ejecutivo_01,Anulación de compra,Solicitud cliente,4,En gestión,Baja,App,243683,Sí,No,Sí,No,En seguimiento
+CASO-100485,2026-08-12,Providencia,Ejecutivo_06,Problema de facturación,Factura,8,Pendiente,Baja,Tienda,186299,No,No,Sí,No,Resuelto
+CASO-100486,2026-07-31,Las Condes,Ejecutivo_04,Producto defectuoso,Cambio,20,Cerrado,Media,App,189100,No,No,Sí,No,Resuelto
+CASO-100487,2026-07-22,Providencia,Ejecutivo_01,Retraso en la entrega,Entregado,29,Pendiente,Media,App,173455,No,Sí,Sí,Sí,Resuelto
+CASO-100488,2026-08-10,Las Condes,Ejecutivo_01,Producto defectuoso,Evaluación técnica,10,En gestión,Media,Web,34483,No,No,Sí,No,Cliente contactado
+CASO-100489,2026-07-17,Quilicura,Ejecutivo_15,Devolución,Retiro pendiente,34,Pendiente,Media,Call Center,12265,No,Sí,Sí,No,En seguimiento
+CASO-100490,2026-07-25,Ñuñoa,Ejecutivo_13,Producto no recibido,Listo para retiro,26,Escalado,Media,Call Center,27763,No,Sí,Sí,No,Resuelto
+CASO-100491,2026-08-17,La Florida,Ejecutivo_01,Retraso en la entrega,Entregado,3,Pendiente,Media,Web,211724,Sí,No,Sí,No,Cliente contactado
+CASO-100492,2026-08-14,Providencia,Ejecutivo_08,Servicio adicional,Instalación,6,Cerrado,Media,Web,20733,Sí,No,Sí,No,Resuelto
+CASO-100493,2026-08-15,Quilicura,Ejecutivo_10,Problema de facturación,Boleta,5,En gestión,Media,Web,117196,Sí,No,Sí,No,Derivado
+CASO-100494,2026-08-15,Providencia,Ejecutivo_08,Servicio adicional,Despacho adicional,5,En gestión,Media,Web,96038,Sí,No,Sí,No,En seguimiento
+CASO-100495,2026-07-28,Las Condes,Ejecutivo_02,Reembolso pendiente,Pendiente sistema,23,Pendiente,Media,Web,42420,No,Sí,Sí,No,En seguimiento
+CASO-100496,2026-08-11,Santiago Centro,Ejecutivo_11,Retraso en la entrega,Entregado,9,En gestión,Media,Tienda,244849,No,No,Sí,No,Derivado
+CASO-100497,2026-07-16,Providencia,Ejecutivo_13,Servicio adicional,Despacho adicional,35,Pendiente,Baja,App,145319,No,Sí,No,No,En seguimiento
+CASO-100498,2026-07-31,Quilicura,Ejecutivo_07,Servicio adicional,Armado,20,Pendiente,Media,App,159912,No,No,Sí,No,Derivado
+CASO-100499,2026-07-16,Las Condes,Ejecutivo_14,Anulación de compra,Stock,35,Pendiente,Media,App,201221,No,Sí,No,No,Derivado
+CASO-100500,2026-08-02,Puente Alto,Ejecutivo_08,Producto defectuoso,Garantía,18,Pendiente,Media,Call Center,26058,No,No,No,No,Derivado
+CASO-100501,2026-08-03,Las Condes,Ejecutivo_08,Anulación de compra,Solicitud cliente,17,En gestión,Media,Tienda,39929,No,No,Sí,No,Cliente contactado
+CASO-100502,2026-07-27,Ñuñoa,Ejecutivo_11,Retraso en la entrega,Entregado,24,Pendiente,Alta,App,220243,No,Sí,Sí,No,Resuelto
+CASO-100503,2026-08-17,La Florida,Ejecutivo_10,Retraso en la entrega,Nueva fecha disponible,3,Pendiente,Media,Call Center,227236,Sí,No,No,No,Cliente contactado
+CASO-100504,2026-07-19,Puente Alto,Ejecutivo_15,Devolución,Retiro pendiente,32,Pendiente,Media,Tienda,167434,No,Sí,Sí,Sí,Derivado
+CASO-100505,2026-07-16,Ñuñoa,Ejecutivo_11,Anulación de compra,Error compra,35,Pendiente,Alta,Tienda,91489,No,Sí,Sí,Sí,Resuelto
+CASO-100506,2026-08-07,Ñuñoa,Ejecutivo_13,Descuento no aplicado,Promoción,13,En gestión,Media,Call Center,89664,No,No,No,No,Resuelto
+CASO-100507,2026-07-26,Ñuñoa,Ejecutivo_07,Producto defectuoso,Evaluación técnica,25,Pendiente,Baja,Tienda,183428,No,Sí,Sí,No,Derivado
+CASO-100508,2026-08-11,Santiago Centro,Ejecutivo_05,Retraso en la entrega,Sin nueva fecha,9,Pendiente,Baja,Call Center,82597,No,No,Sí,No,Resuelto
+CASO-100509,2026-08-16,Ñuñoa,Ejecutivo_01,Devolución,Retiro pendiente,4,En gestión,Media,App,11041,Sí,No,Sí,No,Resuelto
+CASO-100510,2026-08-06,Santiago Centro,Ejecutivo_12,Anulación de compra,Stock,14,Cerrado,Alta,Call Center,83209,No,No,No,Sí,Resuelto
+CASO-100511,2026-07-17,Ñuñoa,Ejecutivo_09,Producto defectuoso,Evaluación técnica,34,Pendiente,Media,Tienda,198026,No,Sí,Sí,Sí,Resuelto
+CASO-100512,2026-08-09,Maipú,Ejecutivo_13,Anulación de compra,Stock,11,En gestión,Media,App,197941,No,No,Sí,No,Derivado
+CASO-100513,2026-08-17,Quilicura,Ejecutivo_07,Servicio adicional,Instalación,3,Pendiente,Baja,App,157131,Sí,No,No,No,Pendiente información
+CASO-100514,2026-07-23,Puente Alto,Ejecutivo_02,Devolución,Retiro pendiente,28,Pendiente,Alta,Web,104864,No,Sí,Sí,Sí,Pendiente información
+CASO-100515,2026-07-22,Maipú,Ejecutivo_06,Producto defectuoso,Evaluación técnica,29,Escalado,Baja,Web,180794,No,Sí,Sí,No,Pendiente información
+CASO-100516,2026-08-11,Ñuñoa,Ejecutivo_02,Consulta transaccional,Estado transacción,9,Cerrado,Alta,Tienda,153620,No,No,Sí,No,Resuelto
+CASO-100517,2026-08-17,Puente Alto,Ejecutivo_15,Reembolso pendiente,En validación,3,Cerrado,Baja,Call Center,151150,Sí,No,Sí,No,Resuelto
+CASO-100518,2026-07-26,Puente Alto,Ejecutivo_01,Reembolso pendiente,Pendiente sistema,25,Pendiente,Media,Call Center,141491,No,Sí,Sí,Sí,Cliente contactado
+CASO-100519,2026-07-17,Providencia,Ejecutivo_14,Producto defectuoso,Evaluación técnica,34,Escalado,Baja,Tienda,171562,No,Sí,Sí,Sí,Derivado
+CASO-100520,2026-08-08,La Florida,Ejecutivo_07,Anulación de compra,Error compra,12,Pendiente,Media,App,212158,No,No,Sí,No,Derivado
+CASO-100521,2026-08-11,Maipú,Ejecutivo_13,Devolución,Retiro pendiente,9,En gestión,Media,Tienda,120158,No,No,No,No,Derivado
+CASO-100522,2026-08-05,La Florida,Ejecutivo_02,Reembolso pendiente,Pendiente banco,15,Pendiente,Media,Tienda,194832,No,No,Sí,No,Resuelto
+CASO-100523,2026-07-26,Puente Alto,Ejecutivo_13,Devolución,En revisión,25,Pendiente,Alta,App,166409,No,Sí,Sí,No,Resuelto
+CASO-100524,2026-08-15,Santiago Centro,Ejecutivo_14,Reembolso pendiente,En validación,5,Pendiente,Baja,Call Center,6468,Sí,No,Sí,No,Resuelto
+CASO-100525,2026-08-09,Puente Alto,Ejecutivo_14,Servicio adicional,Instalación,11,En gestión,Baja,Tienda,29309,No,No,No,No,En seguimiento
+CASO-100526,2026-07-17,La Florida,Ejecutivo_02,Anulación de compra,Error compra,34,Pendiente,Baja,Call Center,202416,No,Sí,Sí,Sí,Cliente contactado
+CASO-100527,2026-07-27,Maipú,Ejecutivo_13,Servicio adicional,Armado,24,Pendiente,Media,Tienda,226355,No,Sí,Sí,Sí,Derivado
+CASO-100528,2026-08-05,Ñuñoa,Ejecutivo_11,Reembolso pendiente,Pendiente sistema,15,Pendiente,Baja,App,77255,No,No,Sí,No,Derivado
+CASO-100529,2026-08-12,Providencia,Ejecutivo_05,Consulta transaccional,Abono,8,En gestión,Alta,App,86899,No,No,Sí,Sí,Resuelto
+CASO-100530,2026-08-15,Providencia,Ejecutivo_14,Consulta transaccional,Estado transacción,5,En gestión,Media,Web,33718,Sí,No,Sí,No,Derivado
+CASO-100531,2026-07-25,Providencia,Ejecutivo_05,Servicio adicional,Instalación,26,Pendiente,Media,App,230409,No,Sí,Sí,Sí,Derivado
+CASO-100532,2026-08-02,Ñuñoa,Ejecutivo_07,Consulta transaccional,Estado transacción,18,Pendiente,Media,Web,244967,No,No,Sí,No,Pendiente información
+CASO-100533,2026-08-14,Providencia,Ejecutivo_01,Reembolso pendiente,En validación,6,Pendiente,Media,Tienda,173913,Sí,No,No,No,Derivado
+CASO-100534,2026-08-07,Maipú,Ejecutivo_08,Producto defectuoso,Garantía,13,Cerrado,Alta,Call Center,209620,No,No,Sí,No,Resuelto
+CASO-100535,2026-07-23,Ñuñoa,Ejecutivo_03,Servicio adicional,Instalación,28,Escalado,Media,App,219637,No,Sí,Sí,Sí,Resuelto
+CASO-100536,2026-08-15,Providencia,Ejecutivo_04,Producto no recibido,Despacho en ruta,5,Pendiente,Baja,App,182732,Sí,No,Sí,No,Cliente contactado
+CASO-100537,2026-08-07,Ñuñoa,Ejecutivo_15,Anulación de compra,Stock,13,Pendiente,Media,App,111553,No,No,No,No,Cliente contactado
+CASO-100538,2026-08-03,La Florida,Ejecutivo_09,Consulta transaccional,Estado transacción,17,Pendiente,Alta,Tienda,55281,No,No,Sí,Sí,Pendiente información
+CASO-100539,2026-07-19,Quilicura,Ejecutivo_04,Consulta transaccional,Pago,32,Escalado,Media,Web,118451,No,Sí,No,Sí,Cliente contactado
+CASO-100540,2026-07-22,Quilicura,Ejecutivo_10,Retraso en la entrega,Entregado,29,Pendiente,Media,Tienda,5767,No,Sí,No,Sí,Cliente contactado
+CASO-100541,2026-08-17,Maipú,Ejecutivo_12,Descuento no aplicado,Promoción,3,Pendiente,Media,Call Center,139967,Sí,No,Sí,No,Resuelto
+CASO-100542,2026-07-17,Las Condes,Ejecutivo_15,Servicio adicional,Armado,34,Escalado,Media,Tienda,63026,No,Sí,Sí,Sí,Resuelto
+CASO-100543,2026-07-24,Santiago Centro,Ejecutivo_05,Problema de facturación,Boleta,27,Pendiente,Media,Call Center,123142,No,Sí,Sí,Sí,En seguimiento
+CASO-100544,2026-08-07,Providencia,Ejecutivo_07,Consulta transaccional,Pago,13,Pendiente,Media,App,47968,No,No,Sí,No,Pendiente información
+CASO-100545,2026-07-18,Santiago Centro,Ejecutivo_04,Anulación de compra,Error compra,33,Pendiente,Media,Call Center,176169,No,Sí,Sí,Sí,Cliente contactado
+CASO-100546,2026-08-14,Ñuñoa,Ejecutivo_14,Producto no recibido,Despacho en ruta,6,En gestión,Baja,Call Center,151404,Sí,No,Sí,No,En seguimiento
+CASO-100547,2026-07-27,Santiago Centro,Ejecutivo_01,Consulta transaccional,Estado transacción,24,Pendiente,Media,Web,150693,No,Sí,No,Sí,Pendiente información
+CASO-100548,2026-08-01,Maipú,Ejecutivo_09,Producto no recibido,Despacho en ruta,19,En gestión,Media,Call Center,81870,No,No,Sí,No,Cliente contactado
+CASO-100549,2026-08-04,Maipú,Ejecutivo_04,Reembolso pendiente,En validación,16,En gestión,Baja,Call Center,23174,No,No,No,No,Cliente contactado
+CASO-100550,2026-07-23,Puente Alto,Ejecutivo_09,Reembolso pendiente,En validación,28,Pendiente,Media,Tienda,129357,No,Sí,Sí,Sí,Resuelto
+CASO-100551,2026-07-18,Quilicura,Ejecutivo_06,Descuento no aplicado,Convenio,33,Pendiente,Alta,App,104189,No,Sí,Sí,Sí,Derivado
+CASO-100552,2026-08-07,Providencia,Ejecutivo_15,Producto defectuoso,Evaluación técnica,13,En gestión,Baja,Tienda,45502,No,No,No,No,Pendiente información
+CASO-100553,2026-07-26,Puente Alto,Ejecutivo_01,Problema de facturación,Factura,25,Pendiente,Media,Tienda,41674,No,Sí,Sí,No,Cliente contactado
+CASO-100554,2026-07-24,Santiago Centro,Ejecutivo_12,Retraso en la entrega,Entregado,27,Pendiente,Media,App,42260,No,Sí,Sí,Sí,Pendiente información
+CASO-100555,2026-08-13,Las Condes,Ejecutivo_03,Descuento no aplicado,Cupón,7,Pendiente,Alta,App,178570,Sí,No,Sí,Sí,En seguimiento
+CASO-100556,2026-08-15,Puente Alto,Ejecutivo_11,Devolución,Recepcionado,5,Pendiente,Media,Call Center,203681,Sí,No,Sí,No,En seguimiento
+CASO-100557,2026-07-20,Puente Alto,Ejecutivo_02,Retraso en la entrega,Nueva fecha disponible,31,Pendiente,Media,Call Center,185536,No,Sí,Sí,No,Derivado
+CASO-100558,2026-07-28,Maipú,Ejecutivo_09,Servicio adicional,Despacho adicional,23,Pendiente,Alta,Web,76805,No,Sí,Sí,Sí,Cliente contactado
+CASO-100559,2026-08-10,Las Condes,Ejecutivo_15,Anulación de compra,Stock,10,En gestión,Media,Tienda,200991,No,No,Sí,No,Resuelto
+CASO-100560,2026-07-19,Ñuñoa,Ejecutivo_12,Devolución,En revisión,32,Pendiente,Media,App,190541,No,Sí,No,Sí,Cliente contactado
+CASO-100561,2026-07-21,Santiago Centro,Ejecutivo_01,Devolución,Retiro pendiente,30,Pendiente,Media,Call Center,22194,No,Sí,Sí,Sí,Pendiente información
+CASO-100562,2026-07-20,Puente Alto,Ejecutivo_13,Descuento no aplicado,Convenio,31,Pendiente,Alta,App,162883,No,Sí,No,No,En seguimiento
+CASO-100563,2026-08-02,Las Condes,Ejecutivo_14,Producto defectuoso,Cambio,18,Pendiente,Alta,Call Center,77377,No,No,Sí,No,Pendiente información
+CASO-100564,2026-08-18,Quilicura,Ejecutivo_09,Descuento no aplicado,Cupón,2,En gestión,Media,Web,135864,Sí,No,Sí,No,Derivado
+CASO-100565,2026-08-06,Providencia,Ejecutivo_09,Servicio adicional,Despacho adicional,14,En gestión,Alta,Web,48723,No,No,Sí,Sí,En seguimiento
+CASO-100566,2026-08-07,Las Condes,Ejecutivo_08,Consulta transaccional,Pago,13,Cerrado,Baja,App,236408,No,No,Sí,No,Resuelto
+CASO-100567,2026-07-22,Quilicura,Ejecutivo_08,Consulta transaccional,Pago,29,Pendiente,Alta,Web,211307,No,Sí,No,Sí,En seguimiento
+CASO-100568,2026-08-08,Santiago Centro,Ejecutivo_11,Producto defectuoso,Cambio,12,En gestión,Media,App,247113,No,No,Sí,No,Cliente contactado
+CASO-100569,2026-08-18,Las Condes,Ejecutivo_14,Servicio adicional,Instalación,2,En gestión,Alta,Call Center,81298,Sí,No,Sí,Sí,Cliente contactado
+CASO-100570,2026-07-19,Quilicura,Ejecutivo_12,Producto defectuoso,Cambio,32,Pendiente,Media,Tienda,64238,No,Sí,Sí,Sí,En seguimiento
+CASO-100571,2026-08-07,Las Condes,Ejecutivo_01,Producto no recibido,Despacho en ruta,13,En gestión,Baja,Web,110433,No,No,Sí,No,Derivado
+CASO-100572,2026-07-24,Las Condes,Ejecutivo_11,Consulta transaccional,Estado transacción,27,Pendiente,Media,Call Center,112092,No,Sí,No,No,Cliente contactado
+CASO-100573,2026-08-03,Providencia,Ejecutivo_08,Devolución,Retiro pendiente,17,Pendiente,Baja,Tienda,7147,No,No,No,No,Cliente contactado
+CASO-100574,2026-07-20,Quilicura,Ejecutivo_10,Problema de facturación,Cobro incorrecto,31,Pendiente,Media,Tienda,234991,No,Sí,Sí,No,Resuelto
+CASO-100575,2026-07-17,Quilicura,Ejecutivo_14,Anulación de compra,Error compra,34,Escalado,Media,Tienda,235323,No,Sí,Sí,Sí,En seguimiento
+CASO-100576,2026-07-27,Puente Alto,Ejecutivo_03,Servicio adicional,Instalación,24,Pendiente,Media,Call Center,43445,No,Sí,Sí,No,Cliente contactado
+CASO-100577,2026-07-16,Santiago Centro,Ejecutivo_11,Retraso en la entrega,Entregado,35,Escalado,Baja,Call Center,189875,No,Sí,Sí,Sí,Derivado
+CASO-100578,2026-08-14,Providencia,Ejecutivo_07,Producto defectuoso,Garantía,6,Pendiente,Media,App,197180,Sí,No,No,No,Pendiente información
+CASO-100579,2026-08-01,Las Condes,Ejecutivo_11,Anulación de compra,Solicitud cliente,19,Pendiente,Media,Tienda,111170,No,No,Sí,No,En seguimiento
+CASO-100580,2026-07-21,Las Condes,Ejecutivo_15,Retraso en la entrega,Entregado,30,Pendiente,Media,Tienda,138085,No,Sí,Sí,Sí,Resuelto
+CASO-100581,2026-08-13,Puente Alto,Ejecutivo_01,Anulación de compra,Error compra,7,En gestión,Media,Tienda,90617,Sí,No,Sí,No,Cliente contactado
+CASO-100582,2026-08-10,Santiago Centro,Ejecutivo_01,Problema de facturación,Factura,10,Cerrado,Baja,App,218482,No,No,No,No,Resuelto
+CASO-100583,2026-07-19,Maipú,Ejecutivo_10,Retraso en la entrega,Entregado,32,Pendiente,Media,Tienda,58502,No,Sí,Sí,Sí,En seguimiento
+CASO-100584,2026-07-17,Providencia,Ejecutivo_13,Descuento no aplicado,Promoción,34,Pendiente,Media,Call Center,122116,No,Sí,Sí,Sí,Derivado
+CASO-100585,2026-07-23,Puente Alto,Ejecutivo_05,Reembolso pendiente,En validación,28,Escalado,Baja,Tienda,42755,No,Sí,Sí,No,Derivado
+CASO-100586,2026-08-05,Santiago Centro,Ejecutivo_05,Descuento no aplicado,Cupón,15,Cerrado,Media,Web,144805,No,No,Sí,No,Resuelto
+CASO-100587,2026-07-21,Providencia,Ejecutivo_08,Consulta transaccional,Estado transacción,30,Pendiente,Baja,Call Center,14479,No,Sí,No,Sí,En seguimiento
+CASO-100588,2026-07-22,Las Condes,Ejecutivo_07,Reembolso pendiente,Pendiente banco,29,Pendiente,Media,App,80361,No,Sí,Sí,Sí,Cliente contactado
+CASO-100589,2026-07-29,Santiago Centro,Ejecutivo_08,Descuento no aplicado,Cupón,22,Pendiente,Media,Tienda,157376,No,Sí,Sí,Sí,Resuelto
+CASO-100590,2026-08-16,Santiago Centro,Ejecutivo_06,Reembolso pendiente,Pendiente banco,4,Pendiente,Baja,Web,171766,Sí,No,Sí,No,Cliente contactado
+CASO-100591,2026-07-31,Ñuñoa,Ejecutivo_06,Reembolso pendiente,Pendiente sistema,20,En gestión,Alta,App,129232,No,No,Sí,No,Pendiente información
+CASO-100592,2026-07-19,Santiago Centro,Ejecutivo_02,Devolución,En revisión,32,Pendiente,Media,App,110586,No,Sí,Sí,Sí,Derivado
+CASO-100593,2026-08-16,Maipú,Ejecutivo_06,Producto defectuoso,Garantía,4,Cerrado,Media,Call Center,86171,Sí,No,Sí,No,Resuelto
+CASO-100594,2026-07-24,Santiago Centro,Ejecutivo_05,Producto defectuoso,Garantía,27,Escalado,Media,App,119151,No,Sí,Sí,Sí,Derivado
+CASO-100595,2026-08-03,Maipú,Ejecutivo_13,Devolución,Recepcionado,17,Pendiente,Media,App,91296,No,No,Sí,No,Resuelto
+CASO-100596,2026-08-08,Las Condes,Ejecutivo_03,Anulación de compra,Error compra,12,Pendiente,Baja,App,145562,No,No,Sí,No,Cliente contactado
+CASO-100597,2026-07-29,Maipú,Ejecutivo_06,Producto no recibido,Listo para retiro,22,Escalado,Media,App,157324,No,Sí,No,Sí,Cliente contactado
+CASO-100598,2026-08-03,Providencia,Ejecutivo_08,Anulación de compra,Stock,17,Pendiente,Media,Tienda,241362,No,No,Sí,No,Resuelto
+CASO-100599,2026-08-10,Las Condes,Ejecutivo_09,Retraso en la entrega,Nueva fecha disponible,10,En gestión,Baja,Tienda,142934,No,No,Sí,No,En seguimiento
+CASO-100600,2026-08-19,Las Condes,Ejecutivo_01,Retraso en la entrega,Entregado,1,Pendiente,Media,Tienda,246535,Sí,No,Sí,No,Pendiente información
+CASO-100601,2026-07-29,Maipú,Ejecutivo_03,Reembolso pendiente,Pendiente sistema,22,Pendiente,Media,Tienda,74959,No,Sí,Sí,Sí,Pendiente información
+CASO-100602,2026-07-25,Quilicura,Ejecutivo_03,Descuento no aplicado,Convenio,26,Pendiente,Media,Web,146522,No,Sí,Sí,No,Cliente contactado
+CASO-100603,2026-08-02,Puente Alto,Ejecutivo_11,Descuento no aplicado,Convenio,18,En gestión,Baja,Tienda,61022,No,No,No,No,Cliente contactado
+CASO-100604,2026-08-06,La Florida,Ejecutivo_08,Producto defectuoso,Garantía,14,Cerrado,Media,App,66991,No,No,Sí,No,Resuelto
+CASO-100605,2026-07-22,Quilicura,Ejecutivo_01,Servicio adicional,Instalación,29,Pendiente,Baja,Tienda,176999,No,Sí,Sí,Sí,Resuelto
+CASO-100606,2026-08-08,Santiago Centro,Ejecutivo_05,Anulación de compra,Error compra,12,En gestión,Baja,Tienda,236449,No,No,Sí,No,En seguimiento
+CASO-100607,2026-07-16,Ñuñoa,Ejecutivo_03,Consulta transaccional,Estado transacción,35,Escalado,Media,Call Center,224162,No,Sí,Sí,No,Pendiente información
+CASO-100608,2026-08-08,La Florida,Ejecutivo_02,Problema de facturación,Cobro incorrecto,12,En gestión,Media,App,54853,No,No,Sí,No,Derivado
+CASO-100609,2026-08-13,Santiago Centro,Ejecutivo_15,Descuento no aplicado,Convenio,7,En gestión,Baja,Tienda,36826,Sí,No,Sí,No,Resuelto
+CASO-100610,2026-07-22,Quilicura,Ejecutivo_08,Problema de facturación,Cobro incorrecto,29,Pendiente,Media,Tienda,47879,No,Sí,Sí,Sí,Pendiente información
+CASO-100611,2026-08-09,Quilicura,Ejecutivo_03,Reembolso pendiente,En validación,11,En gestión,Baja,Tienda,193337,No,No,Sí,No,En seguimiento
+CASO-100612,2026-07-18,Santiago Centro,Ejecutivo_07,Problema de facturación,Factura,33,Pendiente,Baja,Web,77361,No,Sí,No,Sí,Resuelto
+CASO-100613,2026-08-14,Las Condes,Ejecutivo_12,Consulta transaccional,Estado transacción,6,En gestión,Media,Tienda,245028,Sí,No,No,No,Pendiente información
+CASO-100614,2026-08-05,Santiago Centro,Ejecutivo_11,Devolución,Recepcionado,15,Pendiente,Media,Call Center,82990,No,No,Sí,No,Resuelto
+CASO-100615,2026-07-19,Ñuñoa,Ejecutivo_01,Consulta transaccional,Abono,32,Escalado,Baja,App,94787,No,Sí,Sí,Sí,Pendiente información
+CASO-100616,2026-08-09,Quilicura,Ejecutivo_06,Problema de facturación,Cobro incorrecto,11,En gestión,Baja,App,222256,No,No,No,No,Pendiente información
+CASO-100617,2026-07-28,Santiago Centro,Ejecutivo_03,Consulta transaccional,Estado transacción,23,Pendiente,Media,Tienda,45736,No,Sí,Sí,No,En seguimiento
+CASO-100618,2026-07-25,Maipú,Ejecutivo_08,Producto no recibido,No entregado,26,Pendiente,Alta,Tienda,29530,No,Sí,Sí,Sí,Derivado
+CASO-100619,2026-07-17,La Florida,Ejecutivo_06,Reembolso pendiente,Pendiente sistema,34,Escalado,Media,Tienda,214124,No,Sí,No,No,En seguimiento
+CASO-100620,2026-07-17,Maipú,Ejecutivo_12,Anulación de compra,Error compra,34,Escalado,Media,App,183130,No,Sí,No,No,Pendiente información
+CASO-100621,2026-07-22,Ñuñoa,Ejecutivo_02,Devolución,En revisión,29,Escalado,Media,App,111080,No,Sí,Sí,Sí,Resuelto
+CASO-100622,2026-08-16,Santiago Centro,Ejecutivo_06,Descuento no aplicado,Promoción,4,Pendiente,Media,Web,210166,Sí,No,Sí,No,En seguimiento
+CASO-100623,2026-08-03,Providencia,Ejecutivo_07,Retraso en la entrega,Nueva fecha disponible,17,Cerrado,Media,Call Center,79255,No,No,Sí,No,Resuelto
+CASO-100624,2026-07-16,Ñuñoa,Ejecutivo_05,Anulación de compra,Stock,35,Pendiente,Media,Web,140958,No,Sí,Sí,No,Pendiente información
+CASO-100625,2026-08-07,Las Condes,Ejecutivo_03,Retraso en la entrega,Sin nueva fecha,13,Pendiente,Media,Call Center,131598,No,No,Sí,No,En seguimiento
+CASO-100626,2026-08-05,Maipú,Ejecutivo_04,Reembolso pendiente,Pendiente sistema,15,En gestión,Media,Web,229793,No,No,Sí,No,En seguimiento
+CASO-100627,2026-07-22,Maipú,Ejecutivo_04,Devolución,Retiro pendiente,29,Escalado,Media,App,123623,No,Sí,Sí,No,En seguimiento
+CASO-100628,2026-07-22,Puente Alto,Ejecutivo_06,Producto defectuoso,Evaluación técnica,29,Pendiente,Media,Web,42387,No,Sí,Sí,Sí,En seguimiento
+CASO-100629,2026-08-09,Santiago Centro,Ejecutivo_10,Descuento no aplicado,Convenio,11,Pendiente,Media,Call Center,157647,No,No,Sí,No,Resuelto
+CASO-100630,2026-07-19,Las Condes,Ejecutivo_01,Producto no recibido,No entregado,32,Pendiente,Media,Tienda,117260,No,Sí,Sí,Sí,Derivado
+CASO-100631,2026-08-18,Providencia,Ejecutivo_11,Producto defectuoso,Evaluación técnica,2,Pendiente,Media,Call Center,244721,Sí,No,Sí,No,Derivado
+CASO-100632,2026-08-06,Maipú,Ejecutivo_04,Reembolso pendiente,En validación,14,Cerrado,Media,Tienda,175715,No,No,Sí,No,Resuelto
+CASO-100633,2026-07-31,Maipú,Ejecutivo_10,Anulación de compra,Error compra,20,En gestión,Baja,App,146172,No,No,No,No,Cliente contactado
+CASO-100634,2026-07-29,Las Condes,Ejecutivo_13,Producto no recibido,Listo para retiro,22,Pendiente,Media,Call Center,196428,No,Sí,Sí,Sí,Resuelto
+CASO-100635,2026-08-09,Ñuñoa,Ejecutivo_04,Consulta transaccional,Pago,11,En gestión,Baja,Web,143928,No,No,No,No,Pendiente información
+CASO-100636,2026-07-24,Ñuñoa,Ejecutivo_10,Problema de facturación,Boleta,27,Escalado,Media,Call Center,174241,No,Sí,No,No,Pendiente información
+CASO-100637,2026-08-17,Santiago Centro,Ejecutivo_01,Producto no recibido,No entregado,3,Cerrado,Media,Tienda,164876,Sí,No,Sí,No,Resuelto
+CASO-100638,2026-08-03,Quilicura,Ejecutivo_09,Reembolso pendiente,Pendiente sistema,17,Cerrado,Baja,App,171862,No,No,Sí,No,Resuelto
+CASO-100639,2026-07-23,Puente Alto,Ejecutivo_04,Servicio adicional,Armado,28,Escalado,Media,Web,35988,No,Sí,No,Sí,Cliente contactado
+CASO-100640,2026-07-22,Maipú,Ejecutivo_07,Problema de facturación,Cobro incorrecto,29,Pendiente,Media,Call Center,246051,No,Sí,Sí,Sí,Resuelto
+CASO-100641,2026-07-30,Quilicura,Ejecutivo_12,Retraso en la entrega,Entregado,21,Pendiente,Media,Tienda,81448,No,Sí,Sí,Sí,Cliente contactado
+CASO-100642,2026-08-04,Quilicura,Ejecutivo_14,Descuento no aplicado,Cupón,16,Pendiente,Media,Web,174578,No,No,Sí,No,Pendiente información
+CASO-100643,2026-07-31,Puente Alto,Ejecutivo_03,Retraso en la entrega,Sin nueva fecha,20,Pendiente,Alta,App,118430,No,No,Sí,Sí,Cliente contactado
+CASO-100644,2026-08-14,Quilicura,Ejecutivo_10,Producto no recibido,No entregado,6,En gestión,Media,Web,223976,Sí,No,No,No,Cliente contactado
+CASO-100645,2026-08-01,Quilicura,Ejecutivo_12,Retraso en la entrega,Sin nueva fecha,19,En gestión,Alta,App,203378,No,No,No,Sí,Derivado
+CASO-100646,2026-08-15,Ñuñoa,Ejecutivo_03,Reembolso pendiente,Pendiente banco,5,Cerrado,Alta,Web,148377,Sí,No,No,Sí,Resuelto
+CASO-100647,2026-08-17,Ñuñoa,Ejecutivo_14,Consulta transaccional,Pago,3,En gestión,Baja,Call Center,146041,Sí,No,Sí,No,Cliente contactado
+CASO-100648,2026-08-19,La Florida,Ejecutivo_08,Anulación de compra,Solicitud cliente,1,Cerrado,Media,Tienda,17404,Sí,No,Sí,No,Resuelto
+CASO-100649,2026-08-05,Providencia,Ejecutivo_08,Descuento no aplicado,Cupón,15,En gestión,Media,Call Center,145061,No,No,Sí,No,En seguimiento
+CASO-100650,2026-07-17,Santiago Centro,Ejecutivo_11,Retraso en la entrega,Nueva fecha disponible,34,Pendiente,Baja,Call Center,201377,No,Sí,Sí,Sí,Cliente contactado
+CASO-100651,2026-07-16,Quilicura,Ejecutivo_12,Retraso en la entrega,Nueva fecha disponible,35,Pendiente,Media,App,172055,No,Sí,Sí,Sí,Cliente contactado
+CASO-100652,2026-07-26,La Florida,Ejecutivo_01,Producto no recibido,Despacho en ruta,25,Pendiente,Media,App,246356,No,Sí,Sí,No,Derivado
+CASO-100653,2026-07-27,Providencia,Ejecutivo_10,Anulación de compra,Stock,24,Pendiente,Media,App,175534,No,Sí,Sí,No,Pendiente información
+CASO-100654,2026-08-08,La Florida,Ejecutivo_02,Producto defectuoso,Evaluación técnica,12,Cerrado,Media,Call Center,24360,No,No,Sí,No,Resuelto
+CASO-100655,2026-08-02,La Florida,Ejecutivo_08,Retraso en la entrega,Sin nueva fecha,18,Pendiente,Media,Web,90657,No,No,Sí,No,Pendiente información
+CASO-100656,2026-08-05,Santiago Centro,Ejecutivo_01,Reembolso pendiente,En validación,15,Cerrado,Baja,Web,162359,No,No,Sí,No,Resuelto
+CASO-100657,2026-08-04,Santiago Centro,Ejecutivo_15,Servicio adicional,Armado,16,Pendiente,Baja,Call Center,201544,No,No,Sí,No,Pendiente información
+CASO-100658,2026-07-24,Las Condes,Ejecutivo_12,Descuento no aplicado,Promoción,27,Pendiente,Media,Call Center,245037,No,Sí,Sí,Sí,Cliente contactado
+CASO-100659,2026-08-12,Puente Alto,Ejecutivo_08,Retraso en la entrega,Entregado,8,Cerrado,Media,Tienda,197385,No,No,Sí,No,Resuelto
+CASO-100660,2026-07-26,Puente Alto,Ejecutivo_08,Reembolso pendiente,Pendiente sistema,25,Escalado,Media,App,39160,No,Sí,No,No,Pendiente información
+CASO-100661,2026-08-03,Las Condes,Ejecutivo_02,Reembolso pendiente,Pendiente banco,17,Pendiente,Alta,App,11789,No,No,No,Sí,En seguimiento
+CASO-100662,2026-07-22,Las Condes,Ejecutivo_04,Descuento no aplicado,Convenio,29,Pendiente,Baja,Call Center,163253,No,Sí,No,Sí,Resuelto
+CASO-100663,2026-08-12,Ñuñoa,Ejecutivo_06,Producto defectuoso,Garantía,8,Cerrado,Alta,Call Center,150457,No,No,Sí,Sí,Resuelto
+CASO-100664,2026-08-05,Providencia,Ejecutivo_12,Reembolso pendiente,En validación,15,Pendiente,Media,Web,87597,No,No,Sí,No,Cliente contactado
+CASO-100665,2026-07-24,La Florida,Ejecutivo_11,Servicio adicional,Armado,27,Pendiente,Baja,Call Center,70641,No,Sí,Sí,Sí,En seguimiento
+CASO-100666,2026-08-13,Quilicura,Ejecutivo_09,Reembolso pendiente,En validación,7,Pendiente,Media,Web,49247,Sí,No,Sí,No,Derivado
+CASO-100667,2026-08-17,Las Condes,Ejecutivo_15,Reembolso pendiente,En validación,3,Cerrado,Media,Call Center,91673,Sí,No,Sí,No,Resuelto
+CASO-100668,2026-07-22,Maipú,Ejecutivo_08,Reembolso pendiente,Pendiente banco,29,Pendiente,Media,Tienda,236322,No,Sí,No,Sí,Derivado
+CASO-100669,2026-07-27,Puente Alto,Ejecutivo_12,Consulta transaccional,Abono,24,Pendiente,Baja,Tienda,10544,No,Sí,Sí,Sí,Cliente contactado
+CASO-100670,2026-08-17,Las Condes,Ejecutivo_15,Consulta transaccional,Pago,3,En gestión,Media,Web,149347,Sí,No,No,No,Resuelto
+CASO-100671,2026-07-31,Maipú,Ejecutivo_08,Producto defectuoso,Cambio,20,En gestión,Baja,App,241361,No,No,No,No,Derivado
+CASO-100672,2026-08-05,Maipú,Ejecutivo_07,Retraso en la entrega,Sin nueva fecha,15,En gestión,Alta,Tienda,68248,No,No,Sí,No,Resuelto
+CASO-100673,2026-07-26,Maipú,Ejecutivo_14,Reembolso pendiente,En validación,25,Pendiente,Baja,Web,39550,No,Sí,Sí,Sí,En seguimiento
+CASO-100674,2026-07-21,Ñuñoa,Ejecutivo_13,Anulación de compra,Solicitud cliente,30,Pendiente,Baja,Call Center,58693,No,Sí,Sí,No,Cliente contactado
+CASO-100675,2026-08-06,Ñuñoa,Ejecutivo_09,Retraso en la entrega,Nueva fecha disponible,14,Pendiente,Media,Call Center,133924,No,No,Sí,No,Derivado
+CASO-100676,2026-08-13,Quilicura,Ejecutivo_15,Producto defectuoso,Cambio,7,Pendiente,Media,Web,155713,Sí,No,Sí,No,En seguimiento
+CASO-100677,2026-08-03,Quilicura,Ejecutivo_02,Devolución,En revisión,17,Pendiente,Media,App,207821,No,No,Sí,No,Pendiente información
+CASO-100678,2026-07-31,Maipú,Ejecutivo_03,Retraso en la entrega,Nueva fecha disponible,20,En gestión,Media,Web,85021,No,No,Sí,No,En seguimiento
+CASO-100679,2026-08-11,Providencia,Ejecutivo_10,Retraso en la entrega,Sin nueva fecha,9,Cerrado,Media,Web,20605,No,No,Sí,No,Resuelto
+CASO-100680,2026-07-29,Ñuñoa,Ejecutivo_08,Problema de facturación,Cobro incorrecto,22,Pendiente,Media,Tienda,239245,No,Sí,Sí,No,Cliente contactado
+CASO-100681,2026-08-18,La Florida,Ejecutivo_14,Producto no recibido,No entregado,2,En gestión,Media,Web,55713,Sí,No,Sí,No,Cliente contactado
+CASO-100682,2026-07-27,Maipú,Ejecutivo_06,Problema de facturación,Factura,24,Pendiente,Media,Web,156462,No,Sí,Sí,No,En seguimiento
+CASO-100683,2026-08-12,La Florida,Ejecutivo_10,Servicio adicional,Instalación,8,Cerrado,Alta,Call Center,80403,No,No,Sí,No,Resuelto
+CASO-100684,2026-08-09,La Florida,Ejecutivo_09,Consulta transaccional,Pago,11,Cerrado,Media,Tienda,63466,No,No,Sí,No,Resuelto
+CASO-100685,2026-08-07,Maipú,Ejecutivo_10,Consulta transaccional,Estado transacción,13,Cerrado,Media,Call Center,8981,No,No,Sí,No,Resuelto
+CASO-100686,2026-08-03,Puente Alto,Ejecutivo_04,Producto no recibido,No entregado,17,Cerrado,Baja,Call Center,145565,No,No,No,No,Resuelto
+CASO-100687,2026-08-12,Providencia,Ejecutivo_08,Descuento no aplicado,Cupón,8,Pendiente,Media,App,207290,No,No,Sí,No,Cliente contactado
+CASO-100688,2026-07-30,Maipú,Ejecutivo_10,Descuento no aplicado,Convenio,21,Pendiente,Media,App,207390,No,Sí,Sí,No,Resuelto
+CASO-100689,2026-08-02,Quilicura,Ejecutivo_03,Producto defectuoso,Cambio,18,En gestión,Baja,Tienda,120631,No,No,Sí,No,Pendiente información
+CASO-100690,2026-07-21,Maipú,Ejecutivo_03,Producto no recibido,No entregado,30,Pendiente,Media,Tienda,124238,No,Sí,Sí,No,Cliente contactado
+CASO-100691,2026-08-02,Ñuñoa,Ejecutivo_08,Retraso en la entrega,Entregado,18,Cerrado,Baja,App,100335,No,No,Sí,No,Resuelto
+CASO-100692,2026-07-20,Maipú,Ejecutivo_05,Descuento no aplicado,Convenio,31,Pendiente,Media,App,112441,No,Sí,Sí,Sí,Cliente contactado
+CASO-100693,2026-07-19,Puente Alto,Ejecutivo_03,Reembolso pendiente,Pendiente banco,32,Escalado,Media,App,21984,No,Sí,Sí,Sí,Cliente contactado
+CASO-100694,2026-08-09,Ñuñoa,Ejecutivo_10,Anulación de compra,Stock,11,Pendiente,Alta,App,130580,No,No,Sí,No,Derivado
+CASO-100695,2026-07-26,Quilicura,Ejecutivo_11,Retraso en la entrega,Nueva fecha disponible,25,Pendiente,Media,App,116316,No,Sí,Sí,No,Cliente contactado
+CASO-100696,2026-07-18,Santiago Centro,Ejecutivo_01,Servicio adicional,Armado,33,Escalado,Alta,Call Center,158832,No,Sí,Sí,Sí,Cliente contactado
+CASO-100697,2026-08-12,Santiago Centro,Ejecutivo_15,Reembolso pendiente,En validación,8,En gestión,Media,Tienda,227601,No,No,Sí,No,Resuelto
+CASO-100698,2026-08-09,La Florida,Ejecutivo_03,Reembolso pendiente,Pendiente banco,11,Pendiente,Media,Call Center,137596,No,No,Sí,No,Cliente contactado
+CASO-100699,2026-07-29,Providencia,Ejecutivo_12,Producto no recibido,No entregado,22,Pendiente,Media,Call Center,123454,No,Sí,No,Sí,Pendiente información
+CASO-100700,2026-07-27,La Florida,Ejecutivo_09,Producto defectuoso,Evaluación técnica,24,Escalado,Media,Web,54402,No,Sí,Sí,Sí,En seguimiento
+CASO-100701,2026-08-03,Puente Alto,Ejecutivo_05,Servicio adicional,Armado,17,Pendiente,Media,Call Center,96656,No,No,No,No,Resuelto
+CASO-100702,2026-08-08,Las Condes,Ejecutivo_12,Descuento no aplicado,Cupón,12,Pendiente,Media,App,70614,No,No,Sí,No,Cliente contactado
+CASO-100703,2026-07-19,Quilicura,Ejecutivo_10,Producto no recibido,No entregado,32,Escalado,Media,App,171963,No,Sí,Sí,No,Pendiente información
+CASO-100704,2026-08-05,Providencia,Ejecutivo_15,Descuento no aplicado,Cupón,15,Cerrado,Baja,Web,96009,No,No,No,No,Resuelto
+CASO-100705,2026-08-04,Quilicura,Ejecutivo_02,Producto no recibido,Despacho en ruta,16,Pendiente,Media,Web,175904,No,No,Sí,No,Resuelto
+CASO-100706,2026-07-29,Santiago Centro,Ejecutivo_07,Producto no recibido,No entregado,22,Pendiente,Baja,Web,50836,No,Sí,No,No,Pendiente información
+CASO-100707,2026-07-23,La Florida,Ejecutivo_15,Producto no recibido,No entregado,28,Pendiente,Baja,Web,210025,No,Sí,Sí,Sí,Cliente contactado
+CASO-100708,2026-07-31,Quilicura,Ejecutivo_02,Producto defectuoso,Garantía,20,Cerrado,Media,Web,149434,No,No,Sí,No,Resuelto
+CASO-100709,2026-07-18,Santiago Centro,Ejecutivo_04,Producto no recibido,Listo para retiro,33,Escalado,Media,Call Center,202817,No,Sí,No,Sí,Derivado
+CASO-100710,2026-08-10,Puente Alto,Ejecutivo_12,Devolución,Retiro pendiente,10,Pendiente,Media,Web,173993,No,No,Sí,No,Resuelto
+CASO-100711,2026-07-19,Puente Alto,Ejecutivo_07,Anulación de compra,Stock,32,Escalado,Media,Call Center,206506,No,Sí,No,Sí,Pendiente información
+CASO-100712,2026-07-18,Las Condes,Ejecutivo_04,Descuento no aplicado,Promoción,33,Pendiente,Media,Tienda,154634,No,Sí,Sí,No,En seguimiento
+CASO-100713,2026-08-18,Quilicura,Ejecutivo_07,Retraso en la entrega,Entregado,2,En gestión,Media,Web,200582,Sí,No,Sí,No,Pendiente información
+CASO-100714,2026-07-18,Las Condes,Ejecutivo_07,Problema de facturación,Boleta,33,Pendiente,Media,Web,136049,No,Sí,Sí,Sí,Derivado
+CASO-100715,2026-07-18,Ñuñoa,Ejecutivo_01,Servicio adicional,Instalación,33,Pendiente,Media,Call Center,81407,No,Sí,No,Sí,Resuelto
+CASO-100716,2026-08-07,Providencia,Ejecutivo_06,Consulta transaccional,Pago,13,Pendiente,Media,Tienda,12610,No,No,Sí,No,Cliente contactado
+CASO-100717,2026-07-21,Quilicura,Ejecutivo_09,Producto defectuoso,Cambio,30,Pendiente,Media,Call Center,114381,No,Sí,Sí,Sí,Pendiente información
+CASO-100718,2026-07-18,Puente Alto,Ejecutivo_02,Retraso en la entrega,Sin nueva fecha,33,Escalado,Baja,Call Center,228990,No,Sí,No,Sí,Derivado
+CASO-100719,2026-08-07,La Florida,Ejecutivo_14,Reembolso pendiente,En validación,13,En gestión,Media,Web,20791,No,No,No,No,En seguimiento
+CASO-100720,2026-07-25,Santiago Centro,Ejecutivo_03,Devolución,Recepcionado,26,Pendiente,Alta,App,63047,No,Sí,Sí,Sí,Resuelto
+CASO-100721,2026-07-29,Maipú,Ejecutivo_10,Consulta transaccional,Abono,22,Pendiente,Media,App,236920,No,Sí,Sí,No,Cliente contactado
+CASO-100722,2026-08-18,Las Condes,Ejecutivo_05,Problema de facturación,Boleta,2,Pendiente,Media,Call Center,239898,Sí,No,Sí,No,Pendiente información
+CASO-100723,2026-07-25,Maipú,Ejecutivo_09,Retraso en la entrega,Entregado,26,Pendiente,Media,Web,203978,No,Sí,Sí,No,En seguimiento
+CASO-100724,2026-08-05,Quilicura,Ejecutivo_04,Consulta transaccional,Abono,15,En gestión,Media,Tienda,155737,No,No,Sí,No,Cliente contactado
+CASO-100725,2026-07-17,La Florida,Ejecutivo_01,Retraso en la entrega,Nueva fecha disponible,34,Pendiente,Media,App,75246,No,Sí,Sí,No,Derivado
+CASO-100726,2026-08-09,Las Condes,Ejecutivo_04,Devolución,Retiro pendiente,11,Cerrado,Media,Tienda,201936,No,No,Sí,No,Resuelto
+CASO-100727,2026-08-17,Maipú,Ejecutivo_06,Problema de facturación,Boleta,3,En gestión,Baja,App,182523,Sí,No,No,No,En seguimiento
+CASO-100728,2026-08-14,Providencia,Ejecutivo_05,Reembolso pendiente,En validación,6,En gestión,Baja,Web,239955,Sí,No,No,No,Derivado
+CASO-100729,2026-08-11,La Florida,Ejecutivo_14,Producto no recibido,Despacho en ruta,9,Pendiente,Media,Call Center,91148,No,No,Sí,No,Resuelto
+CASO-100730,2026-08-14,Santiago Centro,Ejecutivo_13,Descuento no aplicado,Convenio,6,Pendiente,Media,Tienda,50890,Sí,No,Sí,No,En seguimiento
+CASO-100731,2026-08-11,Providencia,Ejecutivo_01,Reembolso pendiente,Pendiente sistema,9,Cerrado,Media,Tienda,142866,No,No,Sí,No,Resuelto
+CASO-100732,2026-07-20,La Florida,Ejecutivo_04,Producto no recibido,Listo para retiro,31,Pendiente,Alta,Call Center,37888,No,Sí,Sí,Sí,Pendiente información
+CASO-100733,2026-07-19,Ñuñoa,Ejecutivo_06,Producto defectuoso,Evaluación técnica,32,Escalado,Media,Tienda,142821,No,Sí,Sí,Sí,Derivado
+CASO-100734,2026-08-08,Las Condes,Ejecutivo_13,Anulación de compra,Error compra,12,En gestión,Media,App,51531,No,No,Sí,No,Resuelto
+CASO-100735,2026-08-12,Puente Alto,Ejecutivo_15,Servicio adicional,Armado,8,En gestión,Baja,Call Center,120652,No,No,Sí,No,Cliente contactado
+CASO-100736,2026-08-12,Santiago Centro,Ejecutivo_10,Servicio adicional,Instalación,8,Pendiente,Alta,App,25608,No,No,Sí,No,Cliente contactado
+CASO-100737,2026-07-23,Quilicura,Ejecutivo_10,Descuento no aplicado,Promoción,28,Pendiente,Media,App,85986,No,Sí,Sí,Sí,Derivado
+CASO-100738,2026-07-31,Providencia,Ejecutivo_14,Problema de facturación,Boleta,20,En gestión,Media,Web,205283,No,No,Sí,No,Cliente contactado
+CASO-100739,2026-08-13,Providencia,Ejecutivo_04,Devolución,En revisión,7,Pendiente,Media,App,88996,Sí,No,Sí,No,Derivado
+CASO-100740,2026-08-09,Maipú,Ejecutivo_15,Problema de facturación,Cobro incorrecto,11,Pendiente,Alta,Web,61017,No,No,Sí,Sí,Resuelto
+CASO-100741,2026-07-31,Las Condes,Ejecutivo_14,Devolución,En revisión,20,Pendiente,Baja,Tienda,240019,No,No,Sí,No,Cliente contactado
+CASO-100742,2026-08-04,Quilicura,Ejecutivo_09,Problema de facturación,Cobro incorrecto,16,Pendiente,Media,Tienda,62676,No,No,No,No,Pendiente información
+CASO-100743,2026-08-16,Puente Alto,Ejecutivo_05,Anulación de compra,Error compra,4,Cerrado,Media,Web,16560,Sí,No,No,No,Resuelto
+CASO-100744,2026-08-14,La Florida,Ejecutivo_08,Producto defectuoso,Garantía,6,Pendiente,Media,App,190473,Sí,No,Sí,No,Cliente contactado
+CASO-100745,2026-07-29,Puente Alto,Ejecutivo_09,Producto defectuoso,Garantía,22,Pendiente,Media,Call Center,55468,No,Sí,Sí,No,Resuelto
+CASO-100746,2026-07-25,Las Condes,Ejecutivo_10,Producto no recibido,Listo para retiro,26,Pendiente,Media,Call Center,168535,No,Sí,Sí,Sí,Resuelto
+CASO-100747,2026-08-17,Las Condes,Ejecutivo_05,Consulta transaccional,Abono,3,En gestión,Alta,Web,167735,Sí,No,Sí,Sí,Pendiente información
+CASO-100748,2026-08-06,Ñuñoa,Ejecutivo_06,Producto defectuoso,Cambio,14,En gestión,Alta,Tienda,249759,No,No,Sí,Sí,Resuelto
+CASO-100749,2026-08-09,Ñuñoa,Ejecutivo_01,Producto defectuoso,Evaluación técnica,11,Pendiente,Baja,Tienda,204778,No,No,Sí,No,Resuelto
+CASO-100750,2026-08-02,Puente Alto,Ejecutivo_11,Reembolso pendiente,Pendiente banco,18,En gestión,Media,Call Center,194845,No,No,Sí,No,Cliente contactado
+CASO-100751,2026-08-08,La Florida,Ejecutivo_12,Reembolso pendiente,Pendiente sistema,12,En gestión,Media,Web,38123,No,No,Sí,No,Derivado
+CASO-100752,2026-07-28,Puente Alto,Ejecutivo_15,Producto no recibido,No entregado,23,Pendiente,Media,Call Center,99346,No,Sí,Sí,Sí,En seguimiento
+CASO-100753,2026-08-08,Las Condes,Ejecutivo_07,Consulta transaccional,Abono,12,Cerrado,Baja,App,145790,No,No,Sí,No,Resuelto
+CASO-100754,2026-08-07,Las Condes,Ejecutivo_04,Descuento no aplicado,Convenio,13,Pendiente,Alta,App,198709,No,No,Sí,Sí,Resuelto
+CASO-100755,2026-07-26,Maipú,Ejecutivo_11,Reembolso pendiente,Pendiente sistema,25,Escalado,Media,Web,5028,No,Sí,Sí,No,En seguimiento
+CASO-100756,2026-08-01,Ñuñoa,Ejecutivo_02,Descuento no aplicado,Promoción,19,Pendiente,Alta,Web,198442,No,No,Sí,No,Resuelto
+CASO-100757,2026-08-12,Quilicura,Ejecutivo_05,Retraso en la entrega,Nueva fecha disponible,8,Pendiente,Alta,App,52599,No,No,Sí,Sí,Cliente contactado
+CASO-100758,2026-07-22,Quilicura,Ejecutivo_12,Reembolso pendiente,Pendiente sistema,29,Pendiente,Alta,Tienda,153469,No,Sí,No,No,Cliente contactado
+CASO-100759,2026-07-19,Quilicura,Ejecutivo_03,Anulación de compra,Solicitud cliente,32,Pendiente,Baja,Web,245270,No,Sí,No,No,En seguimiento
+CASO-100760,2026-08-02,Maipú,Ejecutivo_06,Consulta transaccional,Estado transacción,18,Pendiente,Alta,App,243395,No,No,Sí,No,Resuelto
+CASO-100761,2026-08-14,Santiago Centro,Ejecutivo_08,Producto no recibido,Listo para retiro,6,En gestión,Alta,App,50406,Sí,No,Sí,No,Resuelto
+CASO-100762,2026-08-02,Quilicura,Ejecutivo_07,Retraso en la entrega,Sin nueva fecha,18,En gestión,Media,Tienda,52657,No,No,Sí,No,Derivado
+CASO-100763,2026-08-01,Las Condes,Ejecutivo_03,Consulta transaccional,Pago,19,Pendiente,Baja,Tienda,72560,No,No,No,No,Resuelto
+CASO-100764,2026-07-29,Maipú,Ejecutivo_08,Anulación de compra,Error compra,22,Pendiente,Media,Tienda,109143,No,Sí,Sí,Sí,Cliente contactado
+CASO-100765,2026-07-19,Puente Alto,Ejecutivo_02,Consulta transaccional,Abono,32,Pendiente,Media,Tienda,149575,No,Sí,Sí,No,Pendiente información
+CASO-100766,2026-08-17,Ñuñoa,Ejecutivo_10,Anulación de compra,Stock,3,En gestión,Alta,Call Center,59943,Sí,No,No,Sí,Pendiente información
+CASO-100767,2026-07-23,Ñuñoa,Ejecutivo_09,Anulación de compra,Error compra,28,Escalado,Media,Tienda,80839,No,Sí,Sí,Sí,Pendiente información
+CASO-100768,2026-08-10,La Florida,Ejecutivo_04,Descuento no aplicado,Promoción,10,Pendiente,Media,Call Center,87674,No,No,Sí,No,Pendiente información
+CASO-100769,2026-07-16,Puente Alto,Ejecutivo_01,Problema de facturación,Boleta,35,Pendiente,Media,Web,30345,No,Sí,Sí,No,Resuelto
+CASO-100770,2026-07-22,La Florida,Ejecutivo_08,Retraso en la entrega,Nueva fecha disponible,29,Escalado,Media,App,55390,No,Sí,Sí,Sí,Resuelto
+CASO-100771,2026-08-05,Maipú,Ejecutivo_07,Consulta transaccional,Abono,15,En gestión,Media,Call Center,231113,No,No,Sí,No,Derivado
+CASO-100772,2026-07-18,Providencia,Ejecutivo_11,Devolución,Recepcionado,33,Pendiente,Alta,Web,64557,No,Sí,Sí,Sí,Resuelto
+CASO-100773,2026-08-13,Quilicura,Ejecutivo_13,Retraso en la entrega,Entregado,7,Pendiente,Media,Web,201126,Sí,No,Sí,No,Pendiente información
+CASO-100774,2026-08-08,Santiago Centro,Ejecutivo_05,Problema de facturación,Boleta,12,Cerrado,Alta,Call Center,6906,No,No,Sí,Sí,Resuelto
+CASO-100775,2026-07-21,Puente Alto,Ejecutivo_10,Retraso en la entrega,Nueva fecha disponible,30,Escalado,Baja,Web,176239,No,Sí,No,No,En seguimiento
+CASO-100776,2026-07-30,Puente Alto,Ejecutivo_13,Producto defectuoso,Evaluación técnica,21,Escalado,Baja,Web,12961,No,Sí,Sí,No,Cliente contactado
+CASO-100777,2026-07-20,Puente Alto,Ejecutivo_05,Devolución,Recepcionado,31,Escalado,Baja,Call Center,162212,No,Sí,Sí,Sí,Cliente contactado
+CASO-100778,2026-07-27,La Florida,Ejecutivo_07,Problema de facturación,Boleta,24,Pendiente,Baja,Web,124289,No,Sí,No,No,Resuelto
+CASO-100779,2026-07-31,Maipú,Ejecutivo_05,Descuento no aplicado,Promoción,20,En gestión,Media,Tienda,194773,No,No,No,No,En seguimiento
+CASO-100780,2026-08-16,Puente Alto,Ejecutivo_08,Consulta transaccional,Pago,4,Pendiente,Media,Tienda,82567,Sí,No,Sí,No,Pendiente información
+CASO-100781,2026-07-23,Providencia,Ejecutivo_11,Servicio adicional,Armado,28,Escalado,Media,App,85664,No,Sí,No,No,Pendiente información
+CASO-100782,2026-07-31,Puente Alto,Ejecutivo_13,Problema de facturación,Boleta,20,Pendiente,Media,Web,86199,No,No,Sí,No,Pendiente información
+CASO-100783,2026-07-27,Ñuñoa,Ejecutivo_06,Producto no recibido,No entregado,24,Pendiente,Media,App,104764,No,Sí,No,Sí,Resuelto
+CASO-100784,2026-07-19,Quilicura,Ejecutivo_13,Consulta transaccional,Pago,32,Pendiente,Media,Tienda,217290,No,Sí,Sí,Sí,Resuelto
+CASO-100785,2026-07-17,Santiago Centro,Ejecutivo_05,Problema de facturación,Factura,34,Pendiente,Baja,Tienda,127357,No,Sí,Sí,No,Derivado
+CASO-100786,2026-08-18,Quilicura,Ejecutivo_09,Producto defectuoso,Cambio,2,Cerrado,Media,Tienda,85729,Sí,No,No,No,Resuelto
+CASO-100787,2026-08-05,Ñuñoa,Ejecutivo_11,Servicio adicional,Despacho adicional,15,Pendiente,Media,Web,164633,No,No,Sí,No,Pendiente información
+CASO-100788,2026-07-17,Ñuñoa,Ejecutivo_02,Producto defectuoso,Evaluación técnica,34,Pendiente,Baja,Web,55568,No,Sí,Sí,Sí,Resuelto
+CASO-100789,2026-08-14,Santiago Centro,Ejecutivo_01,Servicio adicional,Instalación,6,Cerrado,Alta,Tienda,114349,Sí,No,Sí,Sí,Resuelto
+CASO-100790,2026-08-08,Providencia,Ejecutivo_08,Producto no recibido,No entregado,12,Pendiente,Media,App,78302,No,No,Sí,No,Derivado
+CASO-100791,2026-08-17,Maipú,Ejecutivo_12,Consulta transaccional,Pago,3,Pendiente,Baja,App,231452,Sí,No,Sí,No,Derivado
+CASO-100792,2026-08-02,Ñuñoa,Ejecutivo_03,Descuento no aplicado,Convenio,18,Pendiente,Media,Call Center,99968,No,No,No,No,Cliente contactado
+CASO-100793,2026-07-30,Maipú,Ejecutivo_14,Producto defectuoso,Garantía,21,Pendiente,Media,Tienda,165576,No,Sí,Sí,No,En seguimiento
+CASO-100794,2026-08-05,Ñuñoa,Ejecutivo_11,Producto defectuoso,Garantía,15,Pendiente,Media,App,121116,No,No,Sí,No,Pendiente información
+CASO-100795,2026-07-18,Las Condes,Ejecutivo_12,Anulación de compra,Error compra,33,Pendiente,Media,Tienda,42146,No,Sí,No,Sí,Pendiente información
+CASO-100796,2026-07-16,Santiago Centro,Ejecutivo_12,Servicio adicional,Armado,35,Escalado,Baja,App,45297,No,Sí,Sí,Sí,Derivado
+CASO-100797,2026-07-25,Ñuñoa,Ejecutivo_12,Reembolso pendiente,Pendiente banco,26,Escalado,Media,Call Center,91394,No,Sí,Sí,No,Derivado
+CASO-100798,2026-08-12,Las Condes,Ejecutivo_07,Consulta transaccional,Estado transacción,8,En gestión,Media,Call Center,132173,No,No,Sí,No,Cliente contactado
+CASO-100799,2026-07-21,Quilicura,Ejecutivo_10,Servicio adicional,Armado,30,Pendiente,Alta,Tienda,130942,No,Sí,Sí,Sí,En seguimiento
+CASO-100800,2026-07-28,La Florida,Ejecutivo_13,Anulación de compra,Error compra,23,Pendiente,Alta,App,204679,No,Sí,Sí,Sí,Cliente contactado
